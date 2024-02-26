@@ -1,0 +1,15 @@
+name = "wordcamp-kansai-rag"
+compatibility_date = "2023-12-01"
+
+node_compat = true
+
+[ai]
+binding = "AI"
+
+[[vectorize]]
+binding = "VECTORIZE_SESSIONS_INDEX"
+index_name = "wck-2024-sessions"
+
+[[vectorize]]
+binding = "VECTORIZE_GENERAL_INDEX"
+index_name = "wck-2024-general"
