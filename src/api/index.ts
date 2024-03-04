@@ -27,7 +27,7 @@ const initModels = (bindings: Bindings, indexName: keyof Pick<Bindings, 'VECTORI
 }
 
 indexApp.get('/', async c => {
-    return c.text('hello')
+    return c.json(await loadSessions())
 })
 
 type WPPost = {

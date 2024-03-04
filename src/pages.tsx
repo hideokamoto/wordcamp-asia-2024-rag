@@ -69,7 +69,7 @@ pageApp.get(
         </head>
         <body>
           <header>
-            <h1>WordCamp Kansai AI (limited alpha)</h1>
+            <h1>WordCamp Asia 2024 AI (demo)</h1>
           </header>
           <div>{children}</div>
         </body>
@@ -103,9 +103,10 @@ pageApp.get('/', (c) => {
         <ul id="ai-resources"></ul>
       </section>
       <section>
-        <h2>このサイトについて</h2>
-        <p>このサイトは、RAG(Retrieval Augmented Generation)の習作として、WordCamp Kansai 2024のセッション情報などを利用して構築したアプリです。</p>
-        <p>検索精度が60-70%と高くないため、回答結果については<strong>あくまで参考程度</strong>としてご利用ください。</p>
+        <h2>About</h2>
+        <p>This is a demo application of RAG(Retrieval Augmented Generation) for WordCamp Asia 2024.</p>
+        <p>You can ask about this AI about the session in WordCamp Asia 2024</p>
+        <p>Since the search accuracy is only <strong>60-70%</strong>, which is <strong>not very high</strong>, please use the answers provided as a reference only.。</p>
       </section>
     </>
   )

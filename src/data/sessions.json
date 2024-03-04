@@ -1,0 +1,3075 @@
+[
+  {
+    "id": 9271,
+    "link": "https://asia.wordcamp.org/2024/session/web3-on-wordpress-unlocking-new-frontiers/",
+    "title": {
+      "rendered": "Web3 on WordPress: Unlocking New Frontiers"
+    },
+    "content": {
+      "rendered": "\n<p>In this enlightening session, delve into the pioneering integration of Web3 technologies with the WordPress ecosystem, a journey that promises to redefine the boundaries of content management and digital publishing. From the foundational days of blogging to the cutting-edge innovations of today, discover how decentralized technologies and the &#8216;Writing as NFT&#8217; initiative by the LikeCoin organization are paving the way for a new era of WordPress. We&#8217;ll explore the impact of these advancements on content creators and the digital landscape, highlighting the potential for greater autonomy, enhanced content monetization, and a truly decentralized web. Join us to uncover the future of WordPress in the age of Web3, where new frontiers await.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>In this enlightening session, delve into the pioneering integration of Web3 technologies with the WordPress ecosystem, a journey that promises to redefine the boundaries of content management and digital publishing. From the foundational days of blogging to the cutting-edge innovations of today, discover how decentralized technologies and the &#8216;Writing as NFT&#8217; initiative by the LikeCoin [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709877600,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        9267
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "2:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "9267",
+        "slug": "ju-chun-ko",
+        "name": "JU-CHUN KO",
+        "link": "https://asia.wordcamp.org/2024/speaker/ju-chun-ko/"
+      }
+    ]
+  },
+  {
+    "id": 9253,
+    "link": "https://asia.wordcamp.org/2024/session/short-break/",
+    "title": {
+      "rendered": "Short Break"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709967600,
+      "_wcpt_session_duration": 1800,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "3:00 pm"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 9083,
+    "link": "https://asia.wordcamp.org/2024/session/the-future-of-wordpress/",
+    "title": {
+      "rendered": "The Future of WordPress"
+    },
+    "content": {
+      "rendered": "\n<p>Where is WordPress heading? </p>\n\n\n\n<p>With turbulent years hopefully behind us, we have a lot to look forward to on the web, especially with regards to WordPress. </p>\n\n\n\n<ul>\n<li>Where does the most dominant CMS go? </li>\n\n\n\n<li>How will it compete? </li>\n\n\n\n<li>What new threats will it face? </li>\n</ul>\n\n\n\n<p>These and more questions will be the subject of Noel&#8217;s talk, playing with different future scenarios.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Where is WordPress heading? With turbulent years hopefully behind us, we have a lot to look forward to on the web, especially with regards to WordPress. These and more questions will be the subject of Noel&#8217;s talk, playing with different future scenarios.</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709860500,
+      "_wcpt_session_duration": 2700,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        6037
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "9:15 am"
+    },
+    "session_speakers": [
+      {
+        "id": "6037",
+        "slug": "noel-tock",
+        "name": "Noel Tock",
+        "link": "https://asia.wordcamp.org/2024/speaker/noel-tock/"
+      }
+    ]
+  },
+  {
+    "id": 9067,
+    "link": "https://asia.wordcamp.org/2024/session/redefining-code-quality-a-journey-towards-bug-free-development/",
+    "title": {
+      "rendered": "Redefining Code Quality: A Journey Towards Bug-Free Development"
+    },
+    "content": {
+      "rendered": "\n<p>In the constantly evolving landscape of software development, the quest for bug-free code remains a pinnacle challenge for even the most seasoned developers. This talk aims to transform the way we approach this challenge, not just as a technical hurdle, but as an opportunity to elevate the entire coding process. In this session, we delve into the core principle that most bugs are born from unchecked assumptions. By identifying and questioning these assumptions, we can implement a proactive strategy to prevent bugs before they occur. This talk will guide attendees through effective methodologies to critically analyze their code, fostering a deeper understanding of how assumptions can lead to errors and how to mitigate them. </p>\n\n\n\n<p>We will explore several key areas: </p>\n\n\n\n<ul>\n<li>The Psychology of Assumptions in Coding: Understanding how easy it is to make assumptions and how they can lead to bugs. </li>\n\n\n\n<li>Practical Techniques for Assumption-Proofing Your Code: Implementing strategies such as rigorous type-checking, automated testing, and peer code reviews to safeguard against bugs. </li>\n\n\n\n<li>Real-World Examples: Analyzing case studies where assumption-led bugs caused major issues and how they were resolved. </li>\n\n\n\n<li>Transforming Coding Philosophy: Shifting from a reactive to a proactive mindset in coding, emphasizing prevention overcorrection. </li>\n\n\n\n<li>Attendees will leave with not just an understanding of common pitfalls in coding but also armed with practical tools and strategies to enhance their coding practices. This talk is ideal for developers, team leads, and anyone passionate about elevating the quality of software development through mindful and strategic coding practices.</li>\n</ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>In the constantly evolving landscape of software development, the quest for bug-free code remains a pinnacle challenge for even the most seasoned developers. This talk aims to transform the way we approach this challenge, not just as a technical hurdle, but as an opportunity to elevate the entire coding process. In this session, we delve [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709877600,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        8645
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "2:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "8645",
+        "slug": "alain-schlesser",
+        "name": "Alain Schlesser",
+        "link": "https://asia.wordcamp.org/2024/speaker/alain-schlesser/"
+      }
+    ]
+  },
+  {
+    "id": 9025,
+    "link": "https://asia.wordcamp.org/2024/session/closed-13/",
+    "title": {
+      "rendered": "Closed"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": true,
+      "_wcpt_session_time": 1709866800,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "11:00 am"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 9022,
+    "link": "https://asia.wordcamp.org/2024/session/closed-12/",
+    "title": {
+      "rendered": "Closed"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": true,
+      "_wcpt_session_time": 1709949600,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "10:00 am"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8071,
+    "link": "https://asia.wordcamp.org/2024/session/closed-10/",
+    "title": {
+      "rendered": "Closed"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": true,
+      "_wcpt_session_time": 1709960400,
+      "_wcpt_session_duration": 7200,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "1:00 pm"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8069,
+    "link": "https://asia.wordcamp.org/2024/session/closed-9/",
+    "title": {
+      "rendered": "Closed"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": true,
+      "_wcpt_session_time": 1709964000,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "2:00 pm"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8059,
+    "link": "https://asia.wordcamp.org/2024/session/closed-7/",
+    "title": {
+      "rendered": "Closed"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": true,
+      "_wcpt_session_time": 1709946000,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "9:00 am"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8053,
+    "link": "https://asia.wordcamp.org/2024/session/closed-6/",
+    "title": {
+      "rendered": "Closed"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": true,
+      "_wcpt_session_time": 1709881200,
+      "_wcpt_session_duration": 7200,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "3:00 pm"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8040,
+    "link": "https://asia.wordcamp.org/2024/session/closed-3/",
+    "title": {
+      "rendered": "Closed"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": true,
+      "_wcpt_session_time": 1709874000,
+      "_wcpt_session_duration": 17100,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "1:00 pm"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8039,
+    "link": "https://asia.wordcamp.org/2024/session/closed-2/",
+    "title": {
+      "rendered": "Closed"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": true,
+      "_wcpt_session_time": 1709874000,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "1:00 pm"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8038,
+    "link": "https://asia.wordcamp.org/2024/session/closed/",
+    "title": {
+      "rendered": "Closed"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": true,
+      "_wcpt_session_time": 1709863200,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "10:00 am"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8081,
+    "link": "https://asia.wordcamp.org/2024/session/after-party/",
+    "title": {
+      "rendered": "After Party"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>7PM to 12AM</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709982000,
+      "_wcpt_session_duration": 14400,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "7:00 pm"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8078,
+    "link": "https://asia.wordcamp.org/2024/session/closing-remarks/",
+    "title": {
+      "rendered": "Closing Remarks"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709973900,
+      "_wcpt_session_duration": 8100,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "4:45 pm"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8077,
+    "link": "https://asia.wordcamp.org/2024/session/sponsors-raffle-time/",
+    "title": {
+      "rendered": "Sponsors Raffle Time"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709972100,
+      "_wcpt_session_duration": 1800,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "4:15 pm"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8073,
+    "link": "https://asia.wordcamp.org/2024/session/open-source-is-eating-software-faster-than-software-is-eating-the-world/",
+    "title": {
+      "rendered": "Open source is eating software faster than software is eating the world"
+    },
+    "content": {
+      "rendered": "\n<p>This session will cover the OSS Capital thesis – why we believe open source is the most important trend in technology and the implications across crypto, AI and traditional software / tech businesses and markets.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This session will cover the OSS Capital thesis – why we believe open source is the most important trend in technology and the implications across crypto, AI and traditional software / tech businesses and markets.</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709964000,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        7858
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "2:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "7858",
+        "slug": "joseph-jacks-jj",
+        "name": "Joseph Jacks (JJ)",
+        "link": "https://asia.wordcamp.org/2024/speaker/joseph-jacks-jj/"
+      }
+    ]
+  },
+  {
+    "id": 8063,
+    "link": "https://asia.wordcamp.org/2024/session/long-break/",
+    "title": {
+      "rendered": "Long Break"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709956800,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "12:00 pm"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8061,
+    "link": "https://asia.wordcamp.org/2024/session/lessons-learned-from-20-years-of-blogging-and-10-years-of-podcasting/",
+    "title": {
+      "rendered": "[Canceled] Lessons Learned from 20 Years of Blogging and 10 Years of Podcasting"
+    },
+    "content": {
+      "rendered": "\n<div class=\"wp-block-wporg-notice is-alert-notice\"><div class=\"wp-block-wporg-notice__icon\"></div><div class=\"wp-block-wporg-notice__content\"><p><strong>Update [ March 4, 2024, 12pm (UTC+8) ] </strong><br><strong><br>Tim Ferriss is unable to speak at WordCamp Asia due to unforeseen circumstances.&nbsp;</strong></p></div></div>\n\n\n\n<p>Lessons Learned from 20 Years of Blogging and 10 Years of Podcasting</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Lessons Learned from 20 Years of Blogging and 10 Years of Podcasting</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": true,
+      "_wcpt_session_time": 1709953200,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        8538
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "11:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "8538",
+        "slug": "tim-ferriss",
+        "name": "Tim Ferriss",
+        "link": "https://asia.wordcamp.org/2024/speaker/tim-ferriss/"
+      }
+    ]
+  },
+  {
+    "id": 8057,
+    "link": "https://asia.wordcamp.org/2024/session/expanding-wordpresss-capabilities-to-support-personalized-content-creation-at-scale-the-story-of-stratechery-and-passport/",
+    "title": {
+      "rendered": "Expanding WordPress’s capabilities to support personalized content creation at scale: the story of Stratechery and Passport"
+    },
+    "content": {
+      "rendered": "\n<p>Ben’s session will tell the story of Stratechery and the development of creator-centric businesses, and how WordPress made that possible. Ben will also introduce Passport, the WordPress plugin that powers Stratechery, and why it can unlock new use cases and business models for creators of all types.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Ben’s session will tell the story of Stratechery and the development of creator-centric businesses, and how WordPress made that possible. Ben will also introduce Passport, the WordPress plugin that powers Stratechery, and why it can unlock new use cases and business models for creators of all types.</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": true,
+      "_wcpt_session_time": 1709874000,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        8536
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "1:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "8536",
+        "slug": "ben-thompson",
+        "name": "Ben Thompson",
+        "link": "https://asia.wordcamp.org/2024/speaker/ben-thompson/"
+      }
+    ]
+  },
+  {
+    "id": 8055,
+    "link": "https://asia.wordcamp.org/2024/session/converting-walled-gardens-into-community-gardens/",
+    "title": {
+      "rendered": "Converting Walled Gardens into Community Gardens"
+    },
+    "content": {
+      "rendered": "\n<p>The future of open source comes down to how we care for what grounds us, how we manage what distracts us, and how we feed new growth around us. WordPress, as one of the largest open source CMSes in the world, is incredibly grounded in how we came to be—but how are we managing our distractions, and feeding the opportunities around us? Join WordPress’ Executive Director Josepha Haden Chomphosy for a look at what the sprawling future of our project could be as we continue to convert walled gardens into community gardens.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>The future of open source comes down to how we care for what grounds us, how we manage what distracts us, and how we feed new growth around us. WordPress, as one of the largest open source CMSes in the world, is incredibly grounded in how we came to be—but how are we managing our [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709888400,
+      "_wcpt_session_duration": 2700,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        7867
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "5:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "7867",
+        "slug": "josepha-haden-chomphosy",
+        "name": "Josepha Haden Chomphosy",
+        "link": "https://asia.wordcamp.org/2024/speaker/josepha-haden-chomphosy/"
+      }
+    ]
+  },
+  {
+    "id": 8044,
+    "link": "https://asia.wordcamp.org/2024/session/future-of-wordpress/",
+    "title": {
+      "rendered": "Closed"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709866800,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "11:00 am"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8033,
+    "link": "https://asia.wordcamp.org/2024/session/shaping-the-future-with-wordpress-woman/",
+    "title": {
+      "rendered": "Shaping the Future with WordPress Women"
+    },
+    "content": {
+      "rendered": "\n<p>Join us this International Women’s Day for a special panel dedicated to uplifting women in the tech industry. Three incredible women in the WordPress community will share their personal journeys, discuss overcoming challenges in their careers, and explore the importance of allyship and supporting other women. Whether you are a tech professional or an ally, come join us for this inspiring panel discussion. Together, we will celebrate and empower women in technology.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Speakers</h2>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><ul class=\"wordcamp-block wordcamp-post-list has-layout-list wordcamp-speakers\"><li class=\"wordcamp-post-list__post wordcamp-clearfix\">\n<div class=\"wordcamp-speaker wordcamp-speakers__post slug-angela-jin\">\n\t<h3 class=\"wordcamp-block__item-title wordcamp-speakers__title\" style=\"text-align:center\"><a href=\"https://asia.wordcamp.org/2024/speaker/angela-jin/\">Angela Jin</a></h3>\n\t\t\t<div class=\"wordcamp-image__avatar-container align-center\">\n\t\t\t<a href=\"https://asia.wordcamp.org/2024/speaker/angela-jin/\" class=\"wordcamp-image__avatar-link\">\n\t\t\t\t<img decoding=\"async\" src=\"https://secure.gravatar.com/avatar/2901cf128cb083d3210afa0b07fac44f?s=150&amp;d=mm&amp;r=g\" alt=\"Avatar of Angela Jin\" />\t\t\t</a>\n\t\t</div>\n\t\n\t\t\t<div class=\"wordcamp-block__item-content wordcamp-speakers__content is-excerpt\"><p>Automattic</p>\n</div>\t\n\t</div>\n\n</li></ul></div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><ul class=\"wordcamp-block wordcamp-post-list has-layout-list wordcamp-speakers\"><li class=\"wordcamp-post-list__post wordcamp-clearfix\">\n<div class=\"wordcamp-speaker wordcamp-speakers__post slug-chiaki-kouno\">\n\t<h3 class=\"wordcamp-block__item-title wordcamp-speakers__title\" style=\"text-align:center\"><a href=\"https://asia.wordcamp.org/2024/speaker/chiaki-kouno/\">Chiaki Kouno</a></h3>\n\t\t\t<div class=\"wordcamp-image__avatar-container align-center\">\n\t\t\t<a href=\"https://asia.wordcamp.org/2024/speaker/chiaki-kouno/\" class=\"wordcamp-image__avatar-link\">\n\t\t\t\t<img decoding=\"async\" src=\"https://secure.gravatar.com/avatar/dbcfc7117aab0c95e55825475fd838db?s=150&amp;d=mm&amp;r=g\" alt=\"Avatar of Chiaki Kouno\" />\t\t\t</a>\n\t\t</div>\n\t\n\t\t\t<div class=\"wordcamp-block__item-content wordcamp-speakers__content is-excerpt\"><p>Vektor, Inc</p>\n</div>\t\n\t</div>\n\n</li></ul></div>\n</div>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><ul class=\"wordcamp-block wordcamp-post-list has-layout-list wordcamp-speakers\"><li class=\"wordcamp-post-list__post wordcamp-clearfix\">\n<div class=\"wordcamp-speaker wordcamp-speakers__post slug-hannah-kao\">\n\t<h3 class=\"wordcamp-block__item-title wordcamp-speakers__title\" style=\"text-align:center\"><a href=\"https://asia.wordcamp.org/2024/speaker/hannah-kao/\">Hannah KAO</a></h3>\n\t\t\t<div class=\"wordcamp-image__avatar-container align-center\">\n\t\t\t<a href=\"https://asia.wordcamp.org/2024/speaker/hannah-kao/\" class=\"wordcamp-image__avatar-link\">\n\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"150\" height=\"150\" src=\"https://i0.wp.com/asia.wordcamp.org/2024/files/2024/01/Hannah-Kao.png?fit=150%2C150&amp;ssl=1\" class=\"attachment-150x150 size-150x150 wp-post-image\" alt=\"Avatar of Hannah KAO\" srcset=\"https://i0.wp.com/asia.wordcamp.org/2024/files/2024/01/Hannah-Kao.png?w=1024&amp;ssl=1 1024w, https://i0.wp.com/asia.wordcamp.org/2024/files/2024/01/Hannah-Kao.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/asia.wordcamp.org/2024/files/2024/01/Hannah-Kao.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/asia.wordcamp.org/2024/files/2024/01/Hannah-Kao.png?resize=768%2C768&amp;ssl=1 768w\" sizes=\"(max-width: 150px) 100vw, 150px\" />\t\t\t</a>\n\t\t</div>\n\t\n\t\t\t<div class=\"wordcamp-block__item-content wordcamp-speakers__content is-excerpt\"><p>Taiwan Gender Equity Education Association</p>\n</div>\t\n\t</div>\n\n</li></ul></div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><ul class=\"wordcamp-block wordcamp-post-list has-layout-list wordcamp-speakers\"><li class=\"wordcamp-post-list__post wordcamp-clearfix\">\n<div class=\"wordcamp-speaker wordcamp-speakers__post slug-olga-gleckler\">\n\t<h3 class=\"wordcamp-block__item-title wordcamp-speakers__title\" style=\"text-align:center\"><a href=\"https://asia.wordcamp.org/2024/speaker/olga-gleckler/\">Olga Gleckler</a></h3>\n\t\t\t<div class=\"wordcamp-image__avatar-container align-center\">\n\t\t\t<a href=\"https://asia.wordcamp.org/2024/speaker/olga-gleckler/\" class=\"wordcamp-image__avatar-link\">\n\t\t\t\t<img decoding=\"async\" src=\"https://secure.gravatar.com/avatar/b2868498d83b08908c7d4aac3f55d5db?s=150&amp;d=mm&amp;r=g\" alt=\"Avatar of Olga Gleckler\" />\t\t\t</a>\n\t\t</div>\n\t\n\t\t\t<div class=\"wordcamp-block__item-content wordcamp-speakers__content is-excerpt\"><p>Sole Entrepreneur</p>\n</div>\t\n\t</div>\n\n</li></ul></div>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Join us this International Women’s Day for a special panel dedicated to uplifting women in the tech industry. Three incredible women in the WordPress community will share their personal journeys, discuss overcoming challenges in their careers, and explore the importance of allyship and supporting other women. Whether you are a tech professional or an ally, [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709874000,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        8214,
+        7849,
+        8148,
+        8217
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "1:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "8214",
+        "slug": "chiaki-kouno",
+        "name": "Chiaki Kouno",
+        "link": "https://asia.wordcamp.org/2024/speaker/chiaki-kouno/"
+      },
+      {
+        "id": "7849",
+        "slug": "angela-jin",
+        "name": "Angela Jin",
+        "link": "https://asia.wordcamp.org/2024/speaker/angela-jin/"
+      },
+      {
+        "id": "8148",
+        "slug": "hannah-kao",
+        "name": "Hannah KAO",
+        "link": "https://asia.wordcamp.org/2024/speaker/hannah-kao/"
+      },
+      {
+        "id": "8217",
+        "slug": "olga-gleckler",
+        "name": "Olga Gleckler",
+        "link": "https://asia.wordcamp.org/2024/speaker/olga-gleckler/"
+      }
+    ]
+  },
+  {
+    "id": 7953,
+    "link": "https://asia.wordcamp.org/2024/session/what-does-underrepresentation-mean-what-is-allyship-and-why-does-it-matter/",
+    "title": {
+      "rendered": "What Does Underrepresentation Mean? What Is Allyship? And Why Does it Matter?"
+    },
+    "content": {
+      "rendered": "\n<p>The work we do in DEIB (diversity, equity, inclusion, and belonging) in the tech community, and WordPress specifically, matters a great deal.</p>\n\n\n\n<p>Imagine making unilateral decisions on global projects from only one point of view. This effectively disengages users, customers, clients, and community. The decisions we make about how products, software, services, and community operate must take into consideration how people from every part of the world &#8211; including underrepresented groups &#8211; will use them and be involved.</p>\n\n\n\n<p>From making sure our venues are wheelchair accessible, to making sure our websites are accessible to users of different disabilities and languages, to making sure our community is accessible to all people inclusive of race, sex, sexual orientation, gender identity and expression, age, physical ability, nationality, socio-economic status, religious beliefs, and any other characteristics that are a part of our identity and humanness matters. It matters a lot.</p>\n\n\n\n<p>How we do the work to achieve this is allyship. And it’s worth it.</p>\n\n\n\n<p>This session will present some history of how we’ve gotten where we are, the work that’s currently in place, what might be on the horizon, and how each and every one of us can (and should) advocate for representation and inclusion.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>The work we do in DEIB (diversity, equity, inclusion, and belonging) in the tech community, and WordPress specifically, matters a great deal. Imagine making unilateral decisions on global projects from only one point of view. This effectively disengages users, customers, clients, and community. The decisions we make about how products, software, services, and community operate [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709953200,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        4829
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "11:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "4829",
+        "slug": "michelle-frechette",
+        "name": "Michelle Frechette",
+        "link": "https://asia.wordcamp.org/2024/speaker/michelle-frechette/"
+      }
+    ]
+  },
+  {
+    "id": 7948,
+    "link": "https://asia.wordcamp.org/2024/session/make-all-wordpress-events-accessible/",
+    "title": {
+      "rendered": "Make (All) WordPress (Events) Accessible"
+    },
+    "content": {
+      "rendered": "\n<p>WordPress Events such as WordCamps, Meetups, do_action, etc. come in various flavours powered by local communities around the world each year. But how do we ENSURE they&#8217;re all as open, inclusive, and accessible as possible?</p>\n\n\n\n<p>In this engaging, interactive presentation Joe will discuss creating shared baseline practices to help remove common obstacles every event faces and address. We&#8217;ll also cover questions like:</p>\n\n\n\n<ul>\n<li>What criteria should your organizing team leverage when deciding on a location and venue for your event?</li>\n\n\n\n<li>Is the physical layout of your venue, entrances, meeting, stages, dining, and networking areas navigable by attendees who use canes or motorized devices?</li>\n\n\n\n<li>Are your maps and wayfinding/signage usable by sighted and non-sighted attendees to navigate the event weekend?</li>\n\n\n\n<li>How to leverage quiet or low-capacity rooms for attendees who need a moment to themselves amongst the hustle and bustle of an event;</li>\n\n\n\n<li>Is your event messaging on websites, or social media created to be consumed by all users, even those who use assistive technology?</li>\n\n\n\n<li>Can compelling design and branding be accessible and beautiful?</li>\n\n\n\n<li>Working with Make community team members and other a11y advocates to continually hear and empower new ideas and voices in the process; and</li>\n\n\n\n<li>More challenges and wins you&#8217;re invited to share.</li>\n</ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>WordPress Events such as WordCamps, Meetups, do_action, etc. come in various flavours powered by local communities around the world each year. But how do we ENSURE they&#8217;re all as open, inclusive, and accessible as possible? In this engaging, interactive presentation Joe will discuss creating shared baseline practices to help remove common obstacles every event faces [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709877600,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5351
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "2:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5351",
+        "slug": "joe-a-simpson-jr",
+        "name": "Joe A Simpson Jr",
+        "link": "https://asia.wordcamp.org/2024/speaker/joe-a-simpson-jr/"
+      }
+    ]
+  },
+  {
+    "id": 7947,
+    "link": "https://asia.wordcamp.org/2024/session/translate-live-in-context-translation-using-wordpress-playground/",
+    "title": {
+      "rendered": "Translate Live: in-context translation using WordPress Playground"
+    },
+    "content": {
+      "rendered": "\n<p>WordPress playground allows you to run a WordPress purely in your browser, combine this with a plugin and Local GlotPress and you get a blazing fast translation experience where (instead of the typical tagble view) you can see the parts of the plugin you are translating, making it easy to verify the translation sound good in context and see your progress right on the screen.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>WordPress playground allows you to run a WordPress purely in your browser, combine this with a plugin and Local GlotPress and you get a blazing fast translation experience where (instead of the typical tagble view) you can see the parts of the plugin you are translating, making it easy to verify the translation sound good [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709964600,
+      "_wcpt_session_duration": 600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5357
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "2:10 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5357",
+        "slug": "alex-kirk",
+        "name": "Alex Kirk",
+        "link": "https://asia.wordcamp.org/2024/speaker/alex-kirk/"
+      }
+    ]
+  },
+  {
+    "id": 7937,
+    "link": "https://asia.wordcamp.org/2024/session/catching-big-fish-how-to-catch-and-retain-a-wordpress-enterprise-client/",
+    "title": {
+      "rendered": "Catching Big Fish: How to catch and retain a WordPress enterprise client"
+    },
+    "content": {
+      "rendered": "\n<p>WordPress is used by 42% of the web, that means there is a lot of fishies out there using WordPress. Some of them are krill, some of them are clown fish, some of them are barracuda and some of them are sharks, but some of them aren’t even fish at all: some of them are whales.</p>\n\n\n\n<p>In this presentation I’ll talk about some of the tactics that you can use to net yourself a whale. These are tactics that anyone can use, whether you’re a freelancer, an agency, or a big company. All you need is a small hook and the right technique and you could be netting your first enterprise client, where you’ll deliver WordPress at scale for some of the biggest companies in the world.</p>\n\n\n\n<p>I’ll be sharing our experience at Human Made as well as the experiences of other people who have been catching big fish in the WordPress space.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>WordPress is used by 42% of the web, that means there is a lot of fishies out there using WordPress. Some of them are krill, some of them are clown fish, some of them are barracuda and some of them are sharks, but some of them aren’t even fish at all: some of them are [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709863200,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5337
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "10:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5337",
+        "slug": "siobhan-mckeown",
+        "name": "Siobhan McKeown",
+        "link": "https://asia.wordcamp.org/2024/speaker/siobhan-mckeown/"
+      }
+    ]
+  },
+  {
+    "id": 7936,
+    "link": "https://asia.wordcamp.org/2024/session/the-block-developers-cookbook/",
+    "title": {
+      "rendered": "The Block Developer&#8217;s Cookbook"
+    },
+    "content": {
+      "rendered": "\n<p>I have been building blocks since WordPress 5.0 both for clients and as part of my regular live streams. Along the way, I have run into issues, gotchas, and A LOT of &#8220;how the heck do I do that?!&#8221; moments. While I don&#8217;t pretend to be an expert, I do have a fair amount of experience in the &#8220;trenches&#8221; of building custom blocks and have compiled a list of some of the things that most WordPress developers need to be able to do when creating custom blocks or extending the existing ones.</p>\n\n\n\n<p>In this interactive workshop aimed at developers, the attendees will choose from a list of recipes and we&#8217;ll go over them together!</p>\n\n\n\n<p>Recipes includes:</p>\n\n\n\n<ul>\n<li>Block variations</li>\n\n\n\n<li>Block deprecations</li>\n\n\n\n<li>Block transforms</li>\n\n\n\n<li>Block templates</li>\n\n\n\n<li>Block context</li>\n\n\n\n<li>Converting an existing static block to a dynamic one (and why you should only use dynamic blocks)</li>\n\n\n\n<li>Using the create-block package and its most powerful feature: External project templates</li>\n\n\n\n<li>Customizing your @wordpress/scripts build process.</li>\n\n\n\n<li>Connecting your block to meta data.</li>\n\n\n\n<li>Front end JavaScript for your blocks.</li>\n\n\n\n<li>Using filters to extend the core blocks.</li>\n\n\n\n<li>Use the data layer in a block.</li>\n\n\n\n<li>Creating an interactive block.</li>\n\n\n\n<li>and more &#8230;</li>\n</ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>I have been building blocks since WordPress 5.0 both for clients and as part of my regular live streams. Along the way, I have run into issues, gotchas, and A LOT of &#8220;how the heck do I do that?!&#8221; moments. While I don&#8217;t pretend to be an expert, I do have a fair amount of [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709863200,
+      "_wcpt_session_duration": 7200,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        4833
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "10:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "4833",
+        "slug": "ryan-welcher",
+        "name": "Ryan Welcher",
+        "link": "https://asia.wordcamp.org/2024/speaker/ryan-welcher/"
+      }
+    ]
+  },
+  {
+    "id": 7935,
+    "link": "https://asia.wordcamp.org/2024/session/chatwp-what-would-you-ask-your-wordpress-site/",
+    "title": {
+      "rendered": "ChatWP. What would you ask your WordPress site?"
+    },
+    "content": {
+      "rendered": "\n<p>In the last 12 months, since WordCamp Asia Bangkok, tangible artificial intelligence has become mainstream. For example, Large Language Models (LLMs) such as OpenAI’s ChatGPT have become the fastest growing web applications in history. But these models have mostly been developed and trained by large technology companies using proprietary datasets they’ve scooped up from the Internet. As an individual user, you have no way of knowing how much of that data is yours, and you have no way of controlling it either once it’s been ingested. Thankfully there are more and more open models becoming more widespread that you can use yourself.</p>\n\n\n\n<p>This talk will give a brief introduction on the current state of AI, what LLMs are, how you can integrate existing LLMs into your own WordPress site, and lastly, for the adventurous, how you can train your own to give more specific results, more control of your own data and tell the other bots to go away.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>In the last 12 months, since WordCamp Asia Bangkok, tangible artificial intelligence has become mainstream. For example, Large Language Models (LLMs) such as OpenAI’s ChatGPT have become the fastest growing web applications in history. But these models have mostly been developed and trained by large technology companies using proprietary datasets they’ve scooped up from the [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709949600,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5500
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "10:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5500",
+        "slug": "robert-li",
+        "name": "Robert Li",
+        "link": "https://asia.wordcamp.org/2024/speaker/robert-li/"
+      }
+    ]
+  },
+  {
+    "id": 7934,
+    "link": "https://asia.wordcamp.org/2024/session/democratizing-performance/",
+    "title": {
+      "rendered": "Democratizing Performance"
+    },
+    "content": {
+      "rendered": "\n<p>Performance is essential for user experience and is becoming increasingly important for search engines through core web vitals. Just as WordPress democratizes publishing, it can also play a significant role in making good performance accessible to everyone.</p>\n\n\n\n<p>This presentation highlights recent improvements made by the WordPress core performance team and upcoming new features that the team is working on. Developers will learn about existing and new tools available to them to identify performance issues in plugins and themes.</p>\n\n\n\n<p>The presentation also depicts a future where site owners do not have to worry about performance thanks to a faster ecosystem, transparent performance ratings, and helpful AI assistants that can help analyze websites, identify potential performance issues, and provide custom-tailored solutions.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Performance is essential for user experience and is becoming increasingly important for search engines through core web vitals. Just as WordPress democratizes publishing, it can also play a significant role in making good performance accessible to everyone. This presentation highlights recent improvements made by the WordPress core performance team and upcoming new features that the [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709881200,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5494
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "3:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5494",
+        "slug": "pascal-birchler",
+        "name": "Pascal Birchler",
+        "link": "https://asia.wordcamp.org/2024/speaker/pascal-birchler/"
+      }
+    ]
+  },
+  {
+    "id": 7933,
+    "link": "https://asia.wordcamp.org/2024/session/beyond-keywords-user-centric-approach-to-product-led-seo/",
+    "title": {
+      "rendered": "Beyond Keywords: User-Centric Approach to Product-Led SEO"
+    },
+    "content": {
+      "rendered": "\n<p>Are you tired of chasing keywords in SEO? Join me as I share a simple yet powerful idea: the real secret to great content lies in putting users first.</p>\n\n\n\n<p>In my journey through SEO and product marketing, I stumbled upon a game-changing approach: Product-Led SEO. This approach shattered the outdated mindset of keyword obsession, showing me how to prioritize genuine user experiences over search engine algorithms.</p>\n\n\n\n<p>In this session, I&#8217;ll share my insights on breaking free from the shackles of traditional SEO. Together, we&#8217;ll dismantle misconceptions and unveil practical strategies to:</p>\n\n\n\n<ul>\n<li>Breaking free from rigid SEO rules and connecting with users on a personal level.</li>\n\n\n\n<li>Swapping robotic tactics for genuine interactions with our audience.</li>\n\n\n\n<li>Finding a natural, effortless way to grow our online presence.</li>\n</ul>\n\n\n\n<p>It&#8217;s time to bid farewell to the old ways of SEO and step boldly into the future of user-centric marketing</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Are you tired of chasing keywords in SEO? Join me as I share a simple yet powerful idea: the real secret to great content lies in putting users first. In my journey through SEO and product marketing, I stumbled upon a game-changing approach: Product-Led SEO. This approach shattered the outdated mindset of keyword obsession, showing [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709946000,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5339
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "9:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5339",
+        "slug": "mina-tamang",
+        "name": "Mina Tamang",
+        "link": "https://asia.wordcamp.org/2024/speaker/mina-tamang/"
+      }
+    ]
+  },
+  {
+    "id": 7932,
+    "link": "https://asia.wordcamp.org/2024/session/intentional-designing-crafting-purposeful-digital-experiences/",
+    "title": {
+      "rendered": "Intentional Designing: Crafting Purposeful Digital Experiences"
+    },
+    "content": {
+      "rendered": "\n<p>Have you ever used a website or an app that was so frustrating to use that you just gave up? Or maybe you’ve used one that was so well-designed that you couldn&#8217;t help but grin and sing its praises. What made the difference between these two experiences?</p>\n\n\n\n<p>In this presentation, we’ll talk about why it’s important to design digital experiences with purpose. We’ll cover the key principles of intentional design and how you can use them to create experiences that are both user-friendly and effective. We’ll also look at some examples of successful intentional design and discuss how you can apply them to your own work.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Have you ever used a website or an app that was so frustrating to use that you just gave up? Or maybe you’ve used one that was so well-designed that you couldn&#8217;t help but grin and sing its praises. What made the difference between these two experiences? In this presentation, we’ll talk about why it’s [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709964000,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5369
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "2:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5369",
+        "slug": "jocelyn-hendrickson",
+        "name": "Jocelyn Hendrickson",
+        "link": "https://asia.wordcamp.org/2024/speaker/jocelyn-hendrickson/"
+      }
+    ]
+  },
+  {
+    "id": 7930,
+    "link": "https://asia.wordcamp.org/2024/session/the-power-of-personal-branding-in-the-ai-era/",
+    "title": {
+      "rendered": "The Power of Personal Branding in the AI Era"
+    },
+    "content": {
+      "rendered": "\n<p>Personal branding is a vital asset for anyone who is seeking to thrive in an era of technological advancements like AI. It&#8217;s the process of shaping your professional identity and effectively utilizing social media platforms to your advantage.</p>\n\n\n\n<p>It allows you to differentiate yourself in a competitive landscape. It highlights your unique skills, values, and personality traits, making you memorable and relatable to clients. This human touch is something AI lacks.</p>\n\n\n\n<p>Having a personal brand helps you with networking as well. Engaging with your industry peers, potential clients, and thought leaders through platforms like LinkedIn can lead to collaborations and business opportunities that AI can&#8217;t replicate.</p>\n\n\n\n<p>It also positions you as an adaptable professional in the AI age. By constantly learning, sharing industry insights, and demonstrating your ability to evolve with the technology, you ensure you&#8217;re not overshadowed by AI but rather seen as someone who can harness its power to benefit your clients.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Personal branding is a vital asset for anyone who is seeking to thrive in an era of technological advancements like AI. It&#8217;s the process of shaping your professional identity and effectively utilizing social media platforms to your advantage. It allows you to differentiate yourself in a competitive landscape. It highlights your unique skills, values, and [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709877600,
+      "_wcpt_session_duration": 900,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5355
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "2:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5355",
+        "slug": "gerlynnia-aprille-galgo",
+        "name": "Gerlynnia Aprille Galgo",
+        "link": "https://asia.wordcamp.org/2024/speaker/gerlynnia-aprille-galgo/"
+      }
+    ]
+  },
+  {
+    "id": 7928,
+    "link": "https://asia.wordcamp.org/2024/session/the-elements-of-wordpress/",
+    "title": {
+      "rendered": "The elements of WordPress"
+    },
+    "content": {
+      "rendered": "\n<p>WordPress is made of blocks, but that&#8217;s just the start. The system starts with blocks, that combine to form patterns, template parts, templates and then styling unites everything. This evolution is growing in pace and even more critical to understand not just for those creating designs, but those even looking to extend the interface and components.</p>\n\n\n\n<p>Blocks, patterns, templates and styles are the elements of WordPress. What does that mean today? How can you take that knowledge and use it? What does it mean for the concept of themes or the experience of using WordPress itself? In this talk let&#8217;s explore a little the history to give context, the present and then the future of the elements of WordPress.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>WordPress is made of blocks, but that&#8217;s just the start. The system starts with blocks, that combine to form patterns, template parts, templates and then styling unites everything. This evolution is growing in pace and even more critical to understand not just for those creating designs, but those even looking to extend the interface and [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709888400,
+      "_wcpt_session_duration": 2700,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5496
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "5:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5496",
+        "slug": "tammie-lister",
+        "name": "Tammie Lister",
+        "link": "https://asia.wordcamp.org/2024/speaker/tammie-lister/"
+      }
+    ]
+  },
+  {
+    "id": 7907,
+    "link": "https://asia.wordcamp.org/2024/session/multiply-your-income-streams-with-wordpress-development-skills/",
+    "title": {
+      "rendered": "Multiply your income streams with WordPress development skills"
+    },
+    "content": {
+      "rendered": "\n<p>This talk is intended to be the inspiration for people who is/want to develop with WordPress. It will be about various ways I have made multiple income streams as WordPress developers in the past years, up until now.</p>\n\n\n\n<p>The ways I used in the past includes:</p>\n\n\n\n<ul>\n<li>Selling WordPress plugin extensions</li>\n\n\n\n<li>Selling WordPress plugins</li>\n\n\n\n<li>Freelancing WordPress projects</li>\n\n\n\n<li>Work as technical project manager, with other WordPress designers &amp; developers to deliver WordPress projects</li>\n\n\n\n<li>Create sales pages with WordPress for other digital products e.g. e-books, online course, conference</li>\n</ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This talk is intended to be the inspiration for people who is/want to develop with WordPress. It will be about various ways I have made multiple income streams as WordPress developers in the past years, up until now. The ways I used in the past includes:</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709953200,
+      "_wcpt_session_duration": 600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5501
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "11:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5501",
+        "slug": "perth-woratana-ngarmtrakulchol",
+        "name": "Perth Woratana Ngarmtrakulchol",
+        "link": "https://asia.wordcamp.org/2024/speaker/perth-woratana-ngarmtrakulchol/"
+      }
+    ]
+  },
+  {
+    "id": 7906,
+    "link": "https://asia.wordcamp.org/2024/session/you-can-be-on-this-stage-too-public-speaking-and-story-telling-at-wordcamps-and-beyond/",
+    "title": {
+      "rendered": "From Meh to Memorable: Your Public Speaking Masterclass"
+    },
+    "content": {
+      "rendered": "\n<p>Public speaking is a universal fear. If you&#8217;ve ever wished to speak to an audience, or improve your presentation and public speaking skills, this session will put you on a fast track to success.</p>\n\n\n\n<p>Here, we&#8217;ll tackle a range of common concerns:</p>\n\n\n\n<ul>\n<li>How to deal with anxiety and butterflies?</li>\n\n\n\n<li>How to <strong>craft stories people love</strong>?</li>\n\n\n\n<li>How to <strong>avoid being a lousy speaker</strong>?</li>\n\n\n\n<li>Should you move around on stage?</li>\n</ul>\n\n\n\n<p>You will learn these and many other secrets:</p>\n\n\n\n<ul>\n<li>The 1.1.1.1 rule</li>\n\n\n\n<li>What to do when you goof up</li>\n\n\n\n<li>Dealing with all the um&#8217;s and ah&#8217;s and other filler words</li>\n\n\n\n<li>Classic mistakes you will catch 90% speakers make (but you shouldn&#8217;t)</li>\n</ul>\n\n\n\n<p>While you won&#8217;t emerge as a naturally charismatic on-stage orator in this short span, you will shatter your biggest fears, paving the way for your stage debut. For those with prior stage experience, expect a significant boost in power and effectiveness during your next appearance.</p>\n\n\n\n<p>Noteworthy bonus: Brace yourself for an exceptionally interesting session! Make sure you attend it!</p>\n\n\n\n<p>Join us and transform your approach to public speaking.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Public speaking is a universal fear. If you&#8217;ve ever wished to speak to an audience, or improve your presentation and public speaking skills, this session will put you on a fast track to success. Here, we&#8217;ll tackle a range of common concerns: You will learn these and many other secrets: While you won&#8217;t emerge as [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709960400,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5329
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "1:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5329",
+        "slug": "nirav-mehta",
+        "name": "Nirav Mehta",
+        "link": "https://asia.wordcamp.org/2024/speaker/nirav-mehta/"
+      }
+    ]
+  },
+  {
+    "id": 7905,
+    "link": "https://asia.wordcamp.org/2024/session/insights-from-wordpress-contribution-what-makes-us-impactful/",
+    "title": {
+      "rendered": "Insights from WordPress Contribution: What Makes Us Impactful"
+    },
+    "content": {
+      "rendered": "\n<p>Join me on a journey of exploration within the WordPress community as we uncover the qualities and practices that underlie impactful collaborations. Drawing from both data and the real-life stories of WordPress contributors, we&#8217;ll dive into the essence of meaningful contributions.</p>\n\n\n\n<p>This session isn&#8217;t just about gaining insights into the current state of WordPress contribution; it&#8217;s about going deeper. We&#8217;ll illuminate a broader understanding of how these insights can nurture impactful interactions in various collaborative settings.</p>\n\n\n\n<p>By the end of our time together, you&#8217;ll walk away with actionable strategies to enrich your collaborative efforts, whether they&#8217;re in the realms of work, community projects, or personal situations. This is an opportunity to broaden your horizons and harness the wisdom of WordPress contributors to make a difference that extends far beyond the WordPress community.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Join me on a journey of exploration within the WordPress community as we uncover the qualities and practices that underlie impactful collaborations. Drawing from both data and the real-life stories of WordPress contributors, we&#8217;ll dive into the essence of meaningful contributions. This session isn&#8217;t just about gaining insights into the current state of WordPress contribution; [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709946000,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5324
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "9:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5324",
+        "slug": "naoko-takano",
+        "name": "Naoko Takano",
+        "link": "https://asia.wordcamp.org/2024/speaker/naoko-takano/"
+      }
+    ]
+  },
+  {
+    "id": 7904,
+    "link": "https://asia.wordcamp.org/2024/session/ai-enhanced-woocommerce-store-management-from-present-to-future/",
+    "title": {
+      "rendered": "AI-Enhanced WooCommerce Store Management: From Present to Future"
+    },
+    "content": {
+      "rendered": "\n<p>In this lightning talk, we will journey through the current and future horizons of AI integration within WooCommerce. We&#8217;ll explore AI&#8217;s transformative role in present mobile and web use cases, including AI-generated product descriptions/categories/tags, crafting shareable social media messages, and generating product details from images. Looking ahead to the future of WooCommerce, we see image background removal/replacement to create stunning product images efficiently and more potential ideas to boost a store’s management and marketing success.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>In this lightning talk, we will journey through the current and future horizons of AI integration within WooCommerce. We&#8217;ll explore AI&#8217;s transformative role in present mobile and web use cases, including AI-generated product descriptions/categories/tags, crafting shareable social media messages, and generating product details from images. Looking ahead to the future of WooCommerce, we see image [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709964000,
+      "_wcpt_session_duration": 600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5361
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "2:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5361",
+        "slug": "jaclyn-chen",
+        "name": "Jaclyn Chen",
+        "link": "https://asia.wordcamp.org/2024/speaker/jaclyn-chen/"
+      }
+    ]
+  },
+  {
+    "id": 7903,
+    "link": "https://asia.wordcamp.org/2024/session/building-and-leveraging-your-reputation/",
+    "title": {
+      "rendered": "Building and Leveraging Your Reputation"
+    },
+    "content": {
+      "rendered": "\n<p>In today&#8217;s highly competitive job market, building a strong reputation is crucial to achieving your career goals. Whether you&#8217;re an entrepreneur, freelancer, or working in a corporate environment, your reputation can make or break your success.</p>\n\n\n\n<p>In this talk, Aaron will share his insights on:</p>\n\n\n\n<ul>\n<li>How to build a positive reputation</li>\n\n\n\n<li>Establishing yourself as a thought leader in your industry</li>\n\n\n\n<li>Using your reputation to advance your career</li>\n</ul>\n\n\n\n<p>You&#8217;ll learn practical strategies for:</p>\n\n\n\n<ul>\n<li>Cultivating a strong online presence</li>\n\n\n\n<li>Networking effectively</li>\n\n\n\n<li>Managing your personal brand</li>\n</ul>\n\n\n\n<p>By the end of the talk, you&#8217;ll have a clear understanding of how to leverage your reputation to achieve your professional and personal goals &#8211; whether you&#8217;re just starting out or looking to take your career to the next level.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>In today&#8217;s highly competitive job market, building a strong reputation is crucial to achieving your career goals. Whether you&#8217;re an entrepreneur, freelancer, or working in a corporate environment, your reputation can make or break your success. In this talk, Aaron will share his insights on: You&#8217;ll learn practical strategies for: By the end of the [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709884800,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5506
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "4:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5506",
+        "slug": "aaron-d-campbell",
+        "name": "Aaron D. Campbell",
+        "link": "https://asia.wordcamp.org/2024/speaker/aaron-d-campbell/"
+      }
+    ]
+  },
+  {
+    "id": 7900,
+    "link": "https://asia.wordcamp.org/2024/session/youll-never-be-alone-anymore-building-and-maintaining-wordpress-sites-with-ai/",
+    "title": {
+      "rendered": "You&#8217;ll never be alone anymore. Building and maintaining WordPress sites with AI"
+    },
+    "content": {
+      "rendered": "\n<p>This would be a tale of a one-year journey to bring the power of AI assistants to WordPress site builders and owners, focusing on helping them become better at what they are passionate about.</p>\n\n\n\n<p>Many raise concerns about AI-generated content potentially eroding the fabric of the web.</p>\n\n\n\n<p>Instead, I want to offer the tale of an optimistic approach, where Ai removes all the tedious parts of our work so we can hone our craft and become better designers, better developers, and better writers.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This would be a tale of a one-year journey to bring the power of AI assistants to WordPress site builders and owners, focusing on helping them become better at what they are passionate about. Many raise concerns about AI-generated content potentially eroding the fabric of the web. Instead, I want to offer the tale of [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709881200,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5499
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "3:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5499",
+        "slug": "paolo-belcastro",
+        "name": "Paolo Belcastro",
+        "link": "https://asia.wordcamp.org/2024/speaker/paolo-belcastro/"
+      }
+    ]
+  },
+  {
+    "id": 7899,
+    "link": "https://asia.wordcamp.org/2024/session/building-a-career-in-wordpress-while-raising-seven-kids/",
+    "title": {
+      "rendered": "Building a career in WordPress while raising seven kids"
+    },
+    "content": {
+      "rendered": "\n<p>In this talk I&#8217;ll share how being part of the WordPress industry enabled me to pursue my two passions: family and professional development.</p>\n\n\n\n<p>My story begins with the founding of a WordPress development agency, a venture born out of a love for web development and the endless possibilities offered by the WordPress platform. I&#8217;ll share the highs and lows of entrepreneurial life—tackling client projects, navigating industry trends, and building a team—all while balancing the responsibilities of a growing family.</p>\n\n\n\n<p>Selling the agency after thirteen years paved the way for a new venture: Strattic. This new direction brought with it new challenges, and demanded I learn the ins-and-outs of the startup business model. We&#8217;ll dive into the dynamic landscape of startup life within the WordPress space. After being acquired by Elementor, I had to learn to transition from being a founder and CEO for seventeen years to being an employee. This brought its own challenges, and demanded that I adjust while learning a lot about myself.</p>\n\n\n\n<p>Central to this narrative is the unparalleled experience of being an active participant in the WordPress community. I&#8217;ll share the demands it places on time and resources but, more importantly, how it gives back in so many meaningful ways. The WordPress community has been a transformative force, exposing me to diverse perspectives, introducing me to individuals beyond my immediate circles, and immersing me in rich and varied cultures.</p>\n\n\n\n<p>Working in the WordPress space has been a unique experience—one where the lines between work and passion blur. I&#8217;ll delve into why contributing to the WordPress community doesn&#8217;t feel like traditional work but rather a collaborative journey of knowledge-sharing and enablement of personal goals.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>In this talk I&#8217;ll share how being part of the WordPress industry enabled me to pursue my two passions: family and professional development. My story begins with the founding of a WordPress development agency, a venture born out of a love for web development and the endless possibilities offered by the WordPress platform. I&#8217;ll share [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709863200,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5312
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "10:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5312",
+        "slug": "miriam-schwab",
+        "name": "Miriam Schwab",
+        "link": "https://asia.wordcamp.org/2024/speaker/miriam-schwab/"
+      }
+    ]
+  },
+  {
+    "id": 7897,
+    "link": "https://asia.wordcamp.org/2024/session/plugin-review-top-10-mistakes-plugin-authors-make/",
+    "title": {
+      "rendered": "Plugin Review – Top 10 mistakes plugin authors make!"
+    },
+    "content": {
+      "rendered": "\n<p>The plugin review team handles hundreds of new plugin submissions every week. 90% of those plugins fall foul of the same mistakes, time and time again. In this talk we&#8217;ll walk through the most common pitfalls, so that your plugin submission goes as smoothly as possible.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>The plugin review team handles hundreds of new plugin submissions every week. 90% of those plugins fall foul of the same mistakes, time and time again. In this talk we&#8217;ll walk through the most common pitfalls, so that your plugin submission goes as smoothly as possible.</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709878500,
+      "_wcpt_session_duration": 900,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5135
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "2:15 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5135",
+        "slug": "luke-carbis",
+        "name": "Luke Carbis",
+        "link": "https://asia.wordcamp.org/2024/speaker/luke-carbis/"
+      }
+    ]
+  },
+  {
+    "id": 7895,
+    "link": "https://asia.wordcamp.org/2024/session/from-fomo-to-jomo-embrace-the-joy-of-missing-out/",
+    "title": {
+      "rendered": "From FOMO to JOMO: Embrace the joy of missing out"
+    },
+    "content": {
+      "rendered": "\n<p>In the whirlwind of our hyperconnected society, we&#8217;ve all been there – the incessant Fear of Missing Out (FOMO) that lures us into adding one more Slack channel, diving into yet another online discussion, or racing to attend one more event, all in the quest to catch that elusive something important or thrilling. </p>\n\n\n\n<p>But what if we could flip the script and turn FOMO into the empowering Joy of Missing Out (JOMO)? Imagine a life where you relish moments of solitude, prioritize genuine connections, and savor the present without being tethered to the never-ending pursuit of the &#8220;next big thing.&#8221; </p>\n\n\n\n<p>Join me in this whirlwind 10-minute journey at WordCamp as we unravel the FOMO-JOMO phenomenon in the context of remote work and beyond. Discover practical tips and strategies to strike the right balance between staying informed and finding tranquility in the digital chaos. </p>\n\n\n\n<p>The talking points will be in this direction: </p>\n\n\n\n<ul>\n<li>Our community culture is often centered around FOMO (fear of missing out) </li>\n\n\n\n<li>FOMO is often not sustainable &#8211; we have limited time in our lives and need to prioritize. </li>\n\n\n\n<li>Create space to focus on what really matters to you by switching to JOMO (joy of missing out) </li>\n\n\n\n<li>What do you want to prioritize in your life? How do you figure that out?</li>\n</ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>In the whirlwind of our hyperconnected society, we&#8217;ve all been there – the incessant Fear of Missing Out (FOMO) that lures us into adding one more Slack channel, diving into yet another online discussion, or racing to attend one more event, all in the quest to catch that elusive something important or thrilling. But what [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709879400,
+      "_wcpt_session_duration": 1800,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5137
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "2:30 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5137",
+        "slug": "hannah-swain-lovik",
+        "name": "Hannah Swain Løvik",
+        "link": "https://asia.wordcamp.org/2024/speaker/hannah-swain-lovik/"
+      }
+    ]
+  },
+  {
+    "id": 7345,
+    "link": "https://asia.wordcamp.org/2024/session/unlocking-universal-creativity-the-future-of-inclusive-wordpress-design/",
+    "title": {
+      "rendered": "Unlocking Universal Creativity: The Future of Inclusive WordPress Design"
+    },
+    "content": {
+      "rendered": "\n<p>Ready to empower your WordPress experience with both design and inclusivity in mind? Dive into the world of Universal Creativity, where Accessibility, Community, and User Experience meet! Whether you&#8217;re a freelancer, small business owner, or someone passionate about inclusive design, this talk is your gateway to a future of endless possibilities.</p>\n\n\n\n<p>In this presentation we&#8217;ll explore:</p>\n\n\n\n<ul>\n<li>Accessibility Unveiled: How to make WordPress accessible for everyone, including BIPOC communities and those who face barriers to tech.</li>\n\n\n\n<li>Community and Culture: Strategies for active engagement and how you can contribute to a sustainable WordPress ecosystem.</li>\n\n\n\n<li>Design with a Purpose: Introducing Universal Themes and how they disrupt the traditional template market, offering multi-functional, high-performance inclusive designs for all.</li>\n</ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Ready to empower your WordPress experience with both design and inclusivity in mind? Dive into the world of Universal Creativity, where Accessibility, Community, and User Experience meet! Whether you&#8217;re a freelancer, small business owner, or someone passionate about inclusive design, this talk is your gateway to a future of endless possibilities. In this presentation we&#8217;ll [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709888400,
+      "_wcpt_session_duration": 2700,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5492
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "5:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5492",
+        "slug": "maestro-stevens",
+        "name": "Maestro Stevens",
+        "link": "https://asia.wordcamp.org/2024/speaker/maestro-stevens/"
+      }
+    ]
+  },
+  {
+    "id": 7293,
+    "link": "https://asia.wordcamp.org/2024/session/inp-a-new-metric-for-interactivity/",
+    "title": {
+      "rendered": "INP &#8211; a new metric for interactivity"
+    },
+    "content": {
+      "rendered": "\n<p>INP (Interaction to Next Paint) is a new Core Web Vital that measures interactivity by seeing how long it takes for a page to give visual feedback in response to user input. By capturing the worst of these interactions, the INP metrics helps developers understand and debug resources that are contributing to a poor user experience.</p>\n\n\n\n<p>The INP metric is already built into a wide variety of testing tools including Web Page Test and Lighthouse. As a WordPress site, plugin or theme developer, it is important to understand what INP is and how you can leverage it to improve the user experience your site or product delivers.</p>\n\n\n\n<p>In this talk, we will discuss:</p>\n\n\n\n<ul>\n<li>What INP measures exactly and what poor experiences it helps capture</li>\n\n\n\n<li>How to measure your site&#8217;s INP &#8211; RUM &amp; lab data</li>\n\n\n\n<li>How to improve your site&#8217;s INP &#8211; top culprits</li>\n\n\n\n<li>INP best practices for WordPress developers</li>\n</ul>\n\n\n\n<p>By the end of this talk, you will have a good understanding of INP and how you can improve your user’s experience by improving your INP!</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>INP (Interaction to Next Paint) is a new Core Web Vital that measures interactivity by seeing how long it takes for a page to give visual feedback in response to user input. By capturing the worst of these interactions, the INP metrics helps developers understand and debug resources that are contributing to a poor user [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709954400,
+      "_wcpt_session_duration": 600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        4831
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "11:20 am"
+    },
+    "session_speakers": [
+      {
+        "id": "4831",
+        "slug": "adam-silverstein",
+        "name": "Adam Silverstein",
+        "link": "https://asia.wordcamp.org/2024/speaker/adam-silverstein/"
+      }
+    ]
+  },
+  {
+    "id": 7291,
+    "link": "https://asia.wordcamp.org/2024/session/outrank-your-competitors-with-easy-quick-on-page-optimization-techniques/",
+    "title": {
+      "rendered": "Outrank Your Competitors With Easy &amp; Quick On-Page Optimization Techniques"
+    },
+    "content": {
+      "rendered": "\n<p>This session is tailored for developers, website owners, content writers, and SEO beginners, filled with practical tips and strategies that you can immediately apply to outshine your competitors. Walk away with the knowledge and confidence to elevate your webpage&#8217;s ranking on Google efficiently and effectively:</p>\n\n\n\n<ul>\n<li>Discover simple yet powerful technical tweaks that can drastically improve your site&#8217;s SEO.</li>\n\n\n\n<li>Learn how to enhance your webpage&#8217;s relevance and searchability by making your content more understandable to search engines, as well as helpful for your audience.</li>\n</ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This session is tailored for developers, website owners, content writers, and SEO beginners, filled with practical tips and strategies that you can immediately apply to outshine your competitors. Walk away with the knowledge and confidence to elevate your webpage&#8217;s ranking on Google efficiently and effectively:</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709953800,
+      "_wcpt_session_duration": 600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5133
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "11:10 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5133",
+        "slug": "jeanne-tan",
+        "name": "Jeanne Tan",
+        "link": "https://asia.wordcamp.org/2024/speaker/jeanne-tan/"
+      }
+    ]
+  },
+  {
+    "id": 7289,
+    "link": "https://asia.wordcamp.org/2024/session/journey-of-5-years-with-headless-wordpress-evolution-challenges-and-opportunities/",
+    "title": {
+      "rendered": "Journey of 5 Years with Headless WordPress: Evolution, Challenges, and Opportunities"
+    },
+    "content": {
+      "rendered": "\n<p>In this session, I will take you on a journey through my experience of using WordPress as a Headless CMS for over 5 years. We&#8217;ll explore the evolution of headless architecture and how it has transformed the way we build and manage websites. From crafting React-based WordPress themes to exploring various infrastructures like Express, Netlify, Next.js, AWS Amplify, and more, I will share the lessons learned and challenges faced during each yearly site revamp.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>In this session, I will take you on a journey through my experience of using WordPress as a Headless CMS for over 5 years. We&#8217;ll explore the evolution of headless architecture and how it has transformed the way we build and manage websites. From crafting React-based WordPress themes to exploring various infrastructures like Express, Netlify, [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709960400,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5131
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "1:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5131",
+        "slug": "hidetaka-okamoto",
+        "name": "Hidetaka Okamoto",
+        "link": "https://asia.wordcamp.org/2024/speaker/hidetaka-okamoto/"
+      }
+    ]
+  },
+  {
+    "id": 8010,
+    "link": "https://asia.wordcamp.org/2024/session/tales-of-tables-converting-legacy-cms-to-wordpress/",
+    "title": {
+      "rendered": "Tales of Tables: Converting legacy CMS to WordPress"
+    },
+    "content": {
+      "rendered": "\n<p>Once upon a time there was a legacy CMS causing their website owners all sorts of trouble! The owners wanted to move their blogs and data to WordPress, but they didn&#8217;t know where to start. They were worried that all of their data would be trapped forever. Along came a crafty WordPress developer and database wizard, and with the help of her SQL &amp; Excel magic she freed them from the clutches of their old CMS.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Once upon a time there was a legacy CMS causing their website owners all sorts of trouble! The owners wanted to move their blogs and data to WordPress, but they didn&#8217;t know where to start. They were worried that all of their data would be trapped forever. Along came a crafty WordPress developer and database [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709955000,
+      "_wcpt_session_duration": 1800,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        7234
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "11:30 am"
+    },
+    "session_speakers": [
+      {
+        "id": "7234",
+        "slug": "kimberly-pater",
+        "name": "Kimberly Pater",
+        "link": "https://asia.wordcamp.org/2024/speaker/kimberly-pater/"
+      }
+    ]
+  },
+  {
+    "id": 8009,
+    "link": "https://asia.wordcamp.org/2024/session/learning-pathways-on-learn-wordpress-org/",
+    "title": {
+      "rendered": "Learning Pathways on Learn.WordPress.org"
+    },
+    "content": {
+      "rendered": "\n<p>The WordPress Training Team recognizes the need for a clear, structured, and user-friendly approach to presenting Learn WordPress content. As a result, we aim to deploy an improved Learn WordPress website experience that provides an easy-to-navigate, goal-oriented learning environment that caters to learners of different roles and skill levels. In this talk I would like to talk about the Learning Pathways Project and also send out a call for volunteers to help support the project.</p>\n\n\n\n<p>This project will serve as a foundational start, establishing a framework and functionality that will allow for the expansion and growth of the learning system over time. To meet our objective, this project includes a website redesign that offers clear learning pathways to reach target Learners such as Developers, End Users, and Designers. We will also focus on making relevant content easier to find and the inclusion of a framework that classifies content by skill level. We believe this will enhance user engagement, improve learning outcomes, and increase user adoption of Learn WordPress resources.</p>\n\n\n\n<p>The Training Team hopes that this project will help us better serve the wider WordPress community by promoting knowledge transfer and ensuring a thriving community with diverse skills and abilities.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>The WordPress Training Team recognizes the need for a clear, structured, and user-friendly approach to presenting Learn WordPress content. As a result, we aim to deploy an improved Learn WordPress website experience that provides an easy-to-navigate, goal-oriented learning environment that caters to learners of different roles and skill levels. In this talk I would like [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709953200,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5353
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "11:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5353",
+        "slug": "wes-theron",
+        "name": "Wes Theron",
+        "link": "https://asia.wordcamp.org/2024/speaker/wes-theron/"
+      }
+    ]
+  },
+  {
+    "id": 7986,
+    "link": "https://asia.wordcamp.org/2024/session/fighting-the-javascript-fatigue-picking-the-right-framework-for-headless-wordpress/",
+    "title": {
+      "rendered": "Fighting the JavaScript Fatigue: Picking the right framework for Headless WordPress"
+    },
+    "content": {
+      "rendered": "\n<p>Headless WordPress provides the flexibility to bring your own frontend stack to use, but how do you choose a framework that works for your team?</p>\n\n\n\n<p>Luckily, we&#8217;ve used them and we&#8217;ll get you up to speed! Let&#8217;s explore the vast landscape of frontend frameworks in 2023, such as Astro, SvelteKit, Nuxt, Next, and the strengths and gotchas of each framework for use in interactive content sites.</p>\n\n\n\n<p>We&#8217;ll give you a taste of each framework, and provide our opinion on which is best for your specific use case.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Headless WordPress provides the flexibility to bring your own frontend stack to use, but how do you choose a framework that works for your team? Luckily, we&#8217;ve used them and we&#8217;ll get you up to speed! Let&#8217;s explore the vast landscape of frontend frameworks in 2023, such as Astro, SvelteKit, Nuxt, Next, and the strengths [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709949600,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5498
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "10:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5498",
+        "slug": "phoomparin-mano",
+        "name": "Phoomparin Mano",
+        "link": "https://asia.wordcamp.org/2024/speaker/phoomparin-mano/"
+      }
+    ]
+  },
+  {
+    "id": 7985,
+    "link": "https://asia.wordcamp.org/2024/session/how-wordpress-can-better-serve-the-needs-of-enterprise/",
+    "title": {
+      "rendered": "How WordPress can better serve the needs of Enterprise"
+    },
+    "content": {
+      "rendered": "\n<p><strong>Witness the convergence of WordPress and enterprise innovation, where digital frontiers are pushed and customer experiences soar to new heights!</strong></p>\n\n\n\n<p>WordPress, a powerful open-source platform, offers enterprise companies a unique opportunity to enhance their agility and deliver exceptional digital experiences for their customers. This panel discussion will focus on strategies for fostering greater enterprise adoption of WordPress, thereby unlocking investments that can fuel ecosystem growth. By addressing barriers, identifying opportunities, and outlining future steps, the panel will contribute to closing the gap between WordPress&#8217;s platform potential and the needs of enterprise customers. This, in turn, will create a virtuous cycle of growth for the WordPress community and enterprise WordPress as a whole.</p>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><ul class=\"wordcamp-block wordcamp-post-list has-layout-list wordcamp-speakers\"><li class=\"wordcamp-post-list__post wordcamp-clearfix\">\n<div class=\"wordcamp-speaker wordcamp-speakers__post slug-petya-raykovska\">\n\t<h3 class=\"wordcamp-block__item-title wordcamp-speakers__title\"><a href=\"https://asia.wordcamp.org/2024/speaker/petya-raykovska/\">Petya Raykovska</a></h3>\n\t\t\t<div class=\"wordcamp-image__avatar-container align-center\">\n\t\t\t<a href=\"https://asia.wordcamp.org/2024/speaker/petya-raykovska/\" class=\"wordcamp-image__avatar-link\">\n\t\t\t\t<img decoding=\"async\" src=\"https://secure.gravatar.com/avatar/b5223ebc4690c47d881722e5adb3a177?s=150&amp;d=mm&amp;r=g\" alt=\"Avatar of Petya Raykovska\" />\t\t\t</a>\n\t\t</div>\n\t\n\t\t\t<div class=\"wordcamp-block__item-content wordcamp-speakers__content is-excerpt\"><p>Human Made</p>\n</div>\t\n\t</div>\n\n</li></ul></div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><ul class=\"wordcamp-block wordcamp-post-list has-layout-list wordcamp-speakers\"><li class=\"wordcamp-post-list__post wordcamp-clearfix\">\n<div class=\"wordcamp-speaker wordcamp-speakers__post slug-kimberley-cole\">\n\t<h3 class=\"wordcamp-block__item-title wordcamp-speakers__title\"><a href=\"https://asia.wordcamp.org/2024/speaker/kimberley-cole/\">Kimberley Cole</a></h3>\n\t\t\t<div class=\"wordcamp-image__avatar-container align-center\">\n\t\t\t<a href=\"https://asia.wordcamp.org/2024/speaker/kimberley-cole/\" class=\"wordcamp-image__avatar-link\">\n\t\t\t\t<img decoding=\"async\" src=\"https://secure.gravatar.com/avatar/e9180925773f2e2a49f9fc9406859d9d?s=150&amp;d=mm&amp;r=g\" alt=\"Avatar of Kimberley Cole\" />\t\t\t</a>\n\t\t</div>\n\t\n\t\t\t<div class=\"wordcamp-block__item-content wordcamp-speakers__content is-excerpt\"><p>Yoast / Newfold Digital</p>\n</div>\t\n\t</div>\n\n</li></ul></div>\n</div>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><ul class=\"wordcamp-block wordcamp-post-list has-layout-list wordcamp-speakers\"><li class=\"wordcamp-post-list__post wordcamp-clearfix\">\n<div class=\"wordcamp-speaker wordcamp-speakers__post slug-rahul-bansal\">\n\t<h3 class=\"wordcamp-block__item-title wordcamp-speakers__title\"><a href=\"https://asia.wordcamp.org/2024/speaker/rahul-bansal/\">Rahul Bansal</a></h3>\n\t\t\t<div class=\"wordcamp-image__avatar-container align-center\">\n\t\t\t<a href=\"https://asia.wordcamp.org/2024/speaker/rahul-bansal/\" class=\"wordcamp-image__avatar-link\">\n\t\t\t\t<img decoding=\"async\" src=\"https://secure.gravatar.com/avatar/a9253565cd7a0a613c1147db0e66e6f0?s=150&amp;d=mm&amp;r=g\" alt=\"Avatar of Rahul Bansal\" />\t\t\t</a>\n\t\t</div>\n\t\n\t\t\t<div class=\"wordcamp-block__item-content wordcamp-speakers__content is-excerpt\"><p>rtCamp</p>\n</div>\t\n\t</div>\n\n</li></ul></div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><ul class=\"wordcamp-block wordcamp-post-list has-layout-list wordcamp-speakers\"><li class=\"wordcamp-post-list__post wordcamp-clearfix\">\n<div class=\"wordcamp-speaker wordcamp-speakers__post slug-lorna-lim\">\n\t<h3 class=\"wordcamp-block__item-title wordcamp-speakers__title\"><a href=\"https://asia.wordcamp.org/2024/speaker/lorna-lim/\">Lorna Lim</a></h3>\n\t\t\t<div class=\"wordcamp-image__avatar-container align-center\">\n\t\t\t<a href=\"https://asia.wordcamp.org/2024/speaker/lorna-lim/\" class=\"wordcamp-image__avatar-link\">\n\t\t\t\t<img decoding=\"async\" src=\"https://secure.gravatar.com/avatar/899f6ca2356c26a57acd711545d84776?s=150&amp;d=mm&amp;r=g\" alt=\"Avatar of Lorna Lim\" />\t\t\t</a>\n\t\t</div>\n\t\n\t\t\t<div class=\"wordcamp-block__item-content wordcamp-speakers__content is-excerpt\"><p>Human Made</p>\n</div>\t\n\t</div>\n\n</li></ul></div>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Witness the convergence of WordPress and enterprise innovation, where digital frontiers are pushed and customer experiences soar to new heights! WordPress, a powerful open-source platform, offers enterprise companies a unique opportunity to enhance their agility and deliver exceptional digital experiences for their customers. This panel discussion will focus on strategies for fostering greater enterprise adoption [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709960400,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5507,
+        8542,
+        8540,
+        8544
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "1:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5507",
+        "slug": "petya-raykovska",
+        "name": "Petya Raykovska",
+        "link": "https://asia.wordcamp.org/2024/speaker/petya-raykovska/"
+      },
+      {
+        "id": "8542",
+        "slug": "rahul-bansal",
+        "name": "Rahul Bansal",
+        "link": "https://asia.wordcamp.org/2024/speaker/rahul-bansal/"
+      },
+      {
+        "id": "8540",
+        "slug": "kimberley-cole",
+        "name": "Kimberley Cole",
+        "link": "https://asia.wordcamp.org/2024/speaker/kimberley-cole/"
+      },
+      {
+        "id": "8544",
+        "slug": "lorna-lim",
+        "name": "Lorna Lim",
+        "link": "https://asia.wordcamp.org/2024/speaker/lorna-lim/"
+      }
+    ]
+  },
+  {
+    "id": 7984,
+    "link": "https://asia.wordcamp.org/2024/session/starting-a-wordpress-meetup-the-highs-and-lows/",
+    "title": {
+      "rendered": "Starting a WordPress Meetup: The highs and lows"
+    },
+    "content": {
+      "rendered": "\n<p>I&#8217;ve recently embarked on the journey of setting a WordPress Meetup for Arabic speakers. There&#8217;s a scarcity of content in the Arabic language (and other languages too), so here&#8217;s how I planned and started the meetup. It took a few months to kickstart, so I&#8217;ll share best practices, what to avoid and how to succeed.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>I&#8217;ve recently embarked on the journey of setting a WordPress Meetup for Arabic speakers. There&#8217;s a scarcity of content in the Arabic language (and other languages too), so here&#8217;s how I planned and started the meetup. It took a few months to kickstart, so I&#8217;ll share best practices, what to avoid and how to succeed.</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709965200,
+      "_wcpt_session_duration": 2400,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5363
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "2:20 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5363",
+        "slug": "nada-elsharkawy",
+        "name": "Nada ElSharkawy",
+        "link": "https://asia.wordcamp.org/2024/speaker/nada-elsharkawy/"
+      }
+    ]
+  },
+  {
+    "id": 7983,
+    "link": "https://asia.wordcamp.org/2024/session/properly-recognizing-contributors-in-large-open-source-projects/",
+    "title": {
+      "rendered": "Properly Recognizing Contributors in Large Open Source Projects"
+    },
+    "content": {
+      "rendered": "\n<p>Ensuring contributors feel appreciated is essential to the success of any open source project. In its 20+ year history, there have been over 5,400 unique contributors listed on the Credits pages for each version released. But even as one of the largest current FOSS projects powering 43%+ of the Internet, this number is inaccurate and low.</p>\n\n\n\n<p>Have you ever considered what a contribution actually is? Where does it come from? Who is contributing and how? How are contributions tracked? What does recognition mean to contributors? And why is the number above lower than it should be?</p>\n\n\n\n<p>Come learn about the types of recognition the WordPress project currently has, where the blindspots are, what the challenges are at scale, and what’s being done to overcome these obstacles in order to ensure every contributor feels appropriately recognized to create a more stable supporting community.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Ensuring contributors feel appreciated is essential to the success of any open source project. In its 20+ year history, there have been over 5,400 unique contributors listed on the Credits pages for each version released. But even as one of the largest current FOSS projects powering 43%+ of the Internet, this number is inaccurate and [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709874000,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5300
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "1:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5300",
+        "slug": "jonathan-desrosiers",
+        "name": "Jonathan Desrosiers",
+        "link": "https://asia.wordcamp.org/2024/speaker/jonathan-desrosiers/"
+      }
+    ]
+  },
+  {
+    "id": 7982,
+    "link": "https://asia.wordcamp.org/2024/session/how-to-achieve-an-efficient-workflow-with-the-site-editor/",
+    "title": {
+      "rendered": "How to achieve an efficient workflow with the Site Editor"
+    },
+    "content": {
+      "rendered": "\n<p>From its initial release back in 2018, the Site Editor has had its fair share of growing pains as users adjusted to the change. Recently, WordPress has made significant strides in improving its page-building experience and has tremendously grown since its inception. The shift from the Classic Editor to the Site Editor has provided users a more visual design process that enables them to design fully functional web pages similar with how they would typically achieve it with any other third-party page builder.</p>\n\n\n\n<p>While the Site Editor has been continuously enhanced with great improvements, there are still a number of users that have trouble streamlining their workflow and getting the most out of the Site Editor. In this talk, I’ll be demonstrating how one can achieve an efficient workflow from start to finish and providing a fresh take on how to unlock the full power of what the default WordPress Editor offers.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>From its initial release back in 2018, the Site Editor has had its fair share of growing pains as users adjusted to the change. Recently, WordPress has made significant strides in improving its page-building experience and has tremendously grown since its inception. The shift from the Classic Editor to the Site Editor has provided users [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709960400,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5349
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "1:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5349",
+        "slug": "benjamin-intal",
+        "name": "Benjamin Intal",
+        "link": "https://asia.wordcamp.org/2024/speaker/benjamin-intal/"
+      }
+    ]
+  },
+  {
+    "id": 7981,
+    "link": "https://asia.wordcamp.org/2024/session/the-future-of-ai-chatbots-in-wordpress-trends-challenges-and-opportunities/",
+    "title": {
+      "rendered": "The Future of AI Chatbots in WordPress: Trends, Challenges, and Opportunities"
+    },
+    "content": {
+      "rendered": "\n<p>The new chatbots are no longer just simple assistants that direct you to documents or FAQs. With the latest AI technologies such as OpenAI GPT and LainChain, chatbots can provide personalized experiences and help users perform more complex tasks. They can understand natural language and provide relevant information in real-time. This makes them more efficient and effective than ever before.</p>\n\n\n\n<p>Therefore, using chatbots in WordPress is becoming increasingly important for all websites in the future. They can help businesses save time and money while providing better customer experiences.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>The new chatbots are no longer just simple assistants that direct you to documents or FAQs. With the latest AI technologies such as OpenAI GPT and LainChain, chatbots can provide personalized experiences and help users perform more complex tasks. They can understand natural language and provide relevant information in real-time. This makes them more efficient [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709888400,
+      "_wcpt_session_duration": 2700,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5347
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "5:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5347",
+        "slug": "alfred-cheng-tai-kan",
+        "name": "Alfred, Cheng-Tai Kang",
+        "link": "https://asia.wordcamp.org/2024/speaker/alfred-cheng-tai-kan/"
+      }
+    ]
+  },
+  {
+    "id": 7980,
+    "link": "https://asia.wordcamp.org/2024/session/website-accessibility-why-when-and-how/",
+    "title": {
+      "rendered": "Website Accessibility &#8211; Why, When and How"
+    },
+    "content": {
+      "rendered": "\n<p>Website accessibility is often the last thing we think about when creating a website, and sometimes it is not considered at all, but it is more than just ticking a box for compliance.</p>\n\n\n\n<p>Studies show one in six people in the Asia-Pacific region lives with disability, and that this is likely to increase, so it is vitally important we are taking steps to give maximum accessibility to our web presence.</p>\n\n\n\n<p>Come with me on a journey to discover why it is important to build accessible websites, when you should be implementing and thinking about it, and how to engage best practices going forward to make sure as many people as possible can see, interact and enjoy the beautiful sites you create.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Website accessibility is often the last thing we think about when creating a website, and sometimes it is not considered at all, but it is more than just ticking a box for compliance. Studies show one in six people in the Asia-Pacific region lives with disability, and that this is likely to increase, so it [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709884800,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5503
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "4:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5503",
+        "slug": "ricky-blacker",
+        "name": "Ricky Blacker",
+        "link": "https://asia.wordcamp.org/2024/speaker/ricky-blacker/"
+      }
+    ]
+  },
+  {
+    "id": 7979,
+    "link": "https://asia.wordcamp.org/2024/session/design-is-an-expedition-of-the-multifacedted-nature-of-design/",
+    "title": {
+      "rendered": "Design is: An Expedition of the Multifaceted Nature of Design"
+    },
+    "content": {
+      "rendered": "\n<p>Design is more than the way things work; it&#8217;s the essence of purpose, intention, and human connection. A transformative craft that weaves functionality and meaning into the fabric of being. Let’s journey through the intricate art of design and embark on an expedition of its multifaceted, ingenious nature. Join me, and a community of fellow design enthusiasts who, like you, are passionate about how design shapes our world, and let&#8217;s explore the nuances of what design is.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Design is more than the way things work; it&#8217;s the essence of purpose, intention, and human connection. A transformative craft that weaves functionality and meaning into the fabric of being. Let’s journey through the intricate art of design and embark on an expedition of its multifaceted, ingenious nature. Join me, and a community of fellow [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709866800,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5331
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "11:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5331",
+        "slug": "rich-tabor",
+        "name": "Rich Tabor",
+        "link": "https://asia.wordcamp.org/2024/speaker/rich-tabor/"
+      }
+    ]
+  },
+  {
+    "id": 7978,
+    "link": "https://asia.wordcamp.org/2024/session/legal-implications-on-use-of-ai-tools/",
+    "title": {
+      "rendered": "Legal implications on use of AI tools"
+    },
+    "content": {
+      "rendered": "\n<p>As we embrace multiple AI tools as we saw with the launch and storm of ChapGPT, Midjourney and plenty of others, as users we also need to be aware of possible legal implications, including data protection, and governance compliance. Other matters of interest includes intellectual property and how to best safeguard your interests as users.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>As we embrace multiple AI tools as we saw with the launch and storm of ChapGPT, Midjourney and plenty of others, as users we also need to be aware of possible legal implications, including data protection, and governance compliance. Other matters of interest includes intellectual property and how to best safeguard your interests as users.</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709949600,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5490
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "10:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5490",
+        "slug": "helen-tung",
+        "name": "Helen Tung",
+        "link": "https://asia.wordcamp.org/2024/speaker/helen-tung/"
+      }
+    ]
+  },
+  {
+    "id": 7977,
+    "link": "https://asia.wordcamp.org/2024/session/the-last-woman-standing-what-does-it-mean-to-be-acquired/",
+    "title": {
+      "rendered": "From independence to integration: The journey of being acquired"
+    },
+    "content": {
+      "rendered": "\n<p>Tales of startups and scale-ups are something you hear a lot in the WordPress ecosystem. Stories of innovation, challenge, and success are celebrated and serve as beacons of inspiration. However, there’s an uncharted narrative many shy away from, often only whispered about: the journey of being acquired.</p>\n\n\n\n<p>I present a talk that seeks to demystify this pivotal phase. “From independence to integration: The journey of being acquired” is not just a presentation; it’s a firsthand recounting of the complexities, choices, and challenges faced during an acquisition. At its heart, this talk aims to communicate a powerful message: Being acquired is not an epilogue but a transformative chapter.</p>\n\n\n\n<p><strong>Why is this topic crucial for our community?</strong></p>\n\n\n\n<ul>\n<li>Reframing Perspectives: The WordPress community thrives on independence. By sharing an insider’s perspective on acquisitions, we aim to foster understanding, showcasing that acquisitions can be strategic alliances rather than dissolutions.</li>\n\n\n\n<li>Choice &amp; Alignment: We’ll delve into the meticulous process of choosing the right fit &#8211; aligning with a company that resonates with your core values, and in our experience, values aspects such as women leadership.</li>\n\n\n\n<li>Integration Challenges: Merging two companies isn’t just about combining assets. It’s the melding of cultures, ways of working, and sometimes, redefining visions. This talk delves deep into these nuanced aspects, highlighting strategies and learnings.</li>\n</ul>\n\n\n\n<p>What makes this presentation unique? Our speaker is the last (wo)man standing from the old board of her company. This is not a hypothetical analysis or an outsider’s perspective. It’s a raw, genuine account from someone at the heart of such a transition. With a rich leadership experience both inside and outside the WordPress domain, she offers a multi-faceted viewpoint, resonating with professionals at all stages of their careers.</p>\n\n\n\n<p>In 45 minutes, attendees won’t just get a talk; they’ll experience a journey. A journey that transforms the narrative around acquisitions, equipping professionals with insights to navigate such milestones, should they ever face them.</p>\n\n\n\n<p>This isn’t just another talk. It’s a conversation the WordPress community needs.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Tales of startups and scale-ups are something you hear a lot in the WordPress ecosystem. Stories of innovation, challenge, and success are celebrated and serve as beacons of inspiration. However, there’s an uncharted narrative many shy away from, often only whispered about: the journey of being acquired. I present a talk that seeks to demystify [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709863200,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5504
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "10:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5504",
+        "slug": "chaya-oosterbroek",
+        "name": "Chaya Oosterbroek",
+        "link": "https://asia.wordcamp.org/2024/speaker/chaya-oosterbroek/"
+      }
+    ]
+  },
+  {
+    "id": 7976,
+    "link": "https://asia.wordcamp.org/2024/session/creating-your-first-fse-theme/",
+    "title": {
+      "rendered": "Creating Your First FSE Theme"
+    },
+    "content": {
+      "rendered": "\n<p>Are you interested in creating your own WordPress theme but lack coding skills? Look no further! Join us for an exciting workshop where we&#8217;ll teach you how to build visually stunning WordPress themes without writing a single line of code.</p>\n\n\n\n<p>In this hands-on workshop, we will guide you through the step-by-step process of creating a fully functional WordPress theme using user-friendly tools and plugins. You&#8217;ll learn how to harness the power of WordPress and unleash your creativity without any programming knowledge.</p>\n\n\n\n<p>Are you eager to build your own beautiful and functional WordPress theme, but intimidated by coding? Look no further! In this hands-on workshop, we will unlock the power of Full Site Editing (FSE) in WordPress, enabling you to create stunning themes without writing a single line of code.</p>\n\n\n\n<p>Full Site Editing is a revolutionary feature that empowers non-developers to take control of their website&#8217;s design and layout. Whether you&#8217;re a blogger, small business owner, or aspiring web designer, this workshop will equip you with the knowledge and skills to bring your creative vision to life.</p>\n\n\n\n<p>During this workshop, you will learn the following:</p>\n\n\n\n<ul>\n<li>Introduction to Full Site Editing</li>\n\n\n\n<li>Exploring Block-Based Themes</li>\n\n\n\n<li>Mastering the Template Editor</li>\n\n\n\n<li>Harnessing Global Styles</li>\n\n\n\n<li>Creating Dynamic Block Patterns</li>\n\n\n\n<li>Launching and Optimizing Your Theme</li>\n</ul>\n\n\n\n<p><strong>Requirements</strong><br>Basic familiarity with WordPress and a laptop with an up-to-date version of WordPress installed (local development environment preferred).</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Are you interested in creating your own WordPress theme but lack coding skills? Look no further! Join us for an exciting workshop where we&#8217;ll teach you how to build visually stunning WordPress themes without writing a single line of code. In this hands-on workshop, we will guide you through the step-by-step process of creating a [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709949600,
+      "_wcpt_session_duration": 7200,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5505
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "10:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5505",
+        "slug": "bijay-yadav",
+        "name": "Bijay Yadav",
+        "link": "https://asia.wordcamp.org/2024/speaker/bijay-yadav/"
+      }
+    ]
+  },
+  {
+    "id": 7952,
+    "link": "https://asia.wordcamp.org/2024/session/wp-cli-for-php-developers/",
+    "title": {
+      "rendered": "WP-CLI for PHP developers"
+    },
+    "content": {
+      "rendered": "\n<p>When was the last time you tested code in production? Your own website doesn’t count.</p>\n\n\n\n<p>WP-CLI for PHP developers is the sequel of WordPress through the Terminal talk, focusing on a set of commands and tools useful for PHP developers.</p>\n\n\n\n<p>This is not just a live demo of WP-CLI commands. This is zooming out and seeing WP-CLI in collaboration with other tools in the context of PHP developer needs and everyday tasks. We’ll probably release the Kraken as well.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>When was the last time you tested code in production? Your own website doesn’t count. WP-CLI for PHP developers is the sequel of WordPress through the Terminal talk, focusing on a set of commands and tools useful for PHP developers. This is not just a live demo of WP-CLI commands. This is zooming out and [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709946000,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5344
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "9:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5344",
+        "slug": "milana-cap",
+        "name": "Milana Cap",
+        "link": "https://asia.wordcamp.org/2024/speaker/milana-cap/"
+      }
+    ]
+  },
+  {
+    "id": 7951,
+    "link": "https://asia.wordcamp.org/2024/session/%e3%80%90ctrlhackdelete%e3%80%91-uncover-the-dark-side-of-wordpress-from-a-hackers-perspective/",
+    "title": {
+      "rendered": "【Ctrl+Hack+Delete】 Uncover the dark side of WordPress from a hacker&#8217;s perspective"
+    },
+    "content": {
+      "rendered": "\n<p>This plan explores WordPress vulnerabilities from a hacker&#8217;s perspective, highlighting risks in plugin development. Beginning with common WordPress functions, we unveil issues arising from misuse and share secure coding practices. We delve into a WordPress plugin source code parser&#8217;s journey, detailing how hackers decipher source code to find security flaws. This initiative enhances understanding of WordPress security for developers and users, promoting better protection against potential website threats.</p>\n\n\n\n<h3 class=\"wp-block-heading\">Speakers</h3>\n\n\n<ul class=\"wordcamp-block wordcamp-post-list has-layout-grid wordcamp-speakers has-grid-columns-2\"><li class=\"wordcamp-post-list__post wordcamp-clearfix\">\n<div class=\"wordcamp-speaker wordcamp-speakers__post slug-minuk-kim\">\n\t<h3 class=\"wordcamp-block__item-title wordcamp-speakers__title\"><a href=\"https://asia.wordcamp.org/2024/speaker/minuk-kim/\">MinUk Kim</a></h3>\n\t\t\t<div class=\"wordcamp-image__avatar-container align-center\">\n\t\t\t<a href=\"https://asia.wordcamp.org/2024/speaker/minuk-kim/\" class=\"wordcamp-image__avatar-link\">\n\t\t\t\t<img decoding=\"async\" src=\"https://secure.gravatar.com/avatar/a11a374956d1e6995ed3ebc09baf7e95?s=150&amp;d=mm&amp;r=g\" alt=\"Avatar of MinUk Kim\" />\t\t\t</a>\n\t\t</div>\n\t\n\t\n\t</div>\n\n</li><li class=\"wordcamp-post-list__post wordcamp-clearfix\">\n<div class=\"wordcamp-speaker wordcamp-speakers__post slug-shen-yi-ting\">\n\t<h3 class=\"wordcamp-block__item-title wordcamp-speakers__title\"><a href=\"https://asia.wordcamp.org/2024/speaker/shen-yi-ting/\">SHEN YI TING</a></h3>\n\t\t\t<div class=\"wordcamp-image__avatar-container align-center\">\n\t\t\t<a href=\"https://asia.wordcamp.org/2024/speaker/shen-yi-ting/\" class=\"wordcamp-image__avatar-link\">\n\t\t\t\t<img decoding=\"async\" src=\"https://secure.gravatar.com/avatar/8206a5fae4e07a3223ce97fc7e47555d?s=150&amp;d=mm&amp;r=g\" alt=\"Avatar of SHEN YI TING\" />\t\t\t</a>\n\t\t</div>\n\t\n\t\n\t</div>\n\n</li></ul>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This plan explores WordPress vulnerabilities from a hacker&#8217;s perspective, highlighting risks in plugin development. Beginning with common WordPress functions, we unveil issues arising from misuse and share secure coding practices. We delve into a WordPress plugin source code parser&#8217;s journey, detailing how hackers decipher source code to find security flaws. This initiative enhances understanding of [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709881200,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5365,
+        5367
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "3:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5365",
+        "slug": "minuk-kim",
+        "name": "MinUk Kim",
+        "link": "https://asia.wordcamp.org/2024/speaker/minuk-kim/"
+      },
+      {
+        "id": "5367",
+        "slug": "shen-yi-ting",
+        "name": "SHEN YI TING",
+        "link": "https://asia.wordcamp.org/2024/speaker/shen-yi-ting/"
+      }
+    ]
+  },
+  {
+    "id": 7950,
+    "link": "https://asia.wordcamp.org/2024/session/getting-ready-for-the-deprecation-of-3p-cookies/",
+    "title": {
+      "rendered": "Getting Ready for the Deprecation of 3P Cookies"
+    },
+    "content": {
+      "rendered": "\n<p>The web has brought a wide range of free services and capabilities to users such as email, social media, online shopping, streaming video, and many others. These services rely on an economic model that depends on tracking users and identifying audiences for targeted advertising.</p>\n\n\n\n<p>Today, increasing concerns about user privacy, data breaches, and the misuse of personal information have led to a growing demand for enhanced privacy protections. Such demands have prompted significant changes in how the web operates, including the imminent deprecation of Third-Party Cookies (3PC).</p>\n\n\n\n<p>With major web browsers phasing out support for third-party cookies, businesses, developers, and marketers face the need to reimagine their strategies. In this talk, I will delve into the impact of the impending 3PC deprecation for the and explore practical strategies for preparing and adapting to this transformative shift.</p>\n\n\n\n<p>The talk will consist of two parts. The first part will have four brief sections. (1) We will begin with a brief overview of Cookies as a State Management mechanism, understanding the properties of cookies which makes them vulnerable to misuse, and understanding what exactly will change when 3P Cookies are deprecated; (2) we will then discuss how existing and new Web Platform capabilities can be used to refactor implementation that rely on 3P cookies today; (3) next we will review the tools and resources available to help developers navigate the transition to a web platform without 3P cookies; (4) we will give the audience a scripted approach they can follow to prepare and get ready for the deprecation of 3P cookies.</p>\n\n\n\n<p>The second part of the talk will explore the importance of embracing privacy-centric technologies which offer a privacy-first approach to ad targeting and measurement, allowing businesses to reach their target audiences without sacrificing user privacy.</p>\n\n\n\n<p>The countdown to the 3PC deprecation has already begun, and it is essential to be proactive in our approach. This talk seeks to equip attendees with the knowledge and tools needed to be at the forefront of embracing change and safeguarding user privacy while ensuring business continuity.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>The web has brought a wide range of free services and capabilities to users such as email, social media, online shopping, streaming video, and many others. These services rely on an economic model that depends on tracking users and identifying audiences for targeted advertising. Today, increasing concerns about user privacy, data breaches, and the misuse [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709884800,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5335
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "4:00 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "5335",
+        "slug": "alberto-medina",
+        "name": "Alberto Medina",
+        "link": "https://asia.wordcamp.org/2024/speaker/alberto-medina/"
+      }
+    ]
+  },
+  {
+    "id": 7949,
+    "link": "https://asia.wordcamp.org/2024/session/how-to-counter-arguments-from-developers-designers-and-managers-against-accessibility/",
+    "title": {
+      "rendered": "How to counter arguments from developers, designers and managers against accessibility"
+    },
+    "content": {
+      "rendered": "\n<p>Do you get an aggressive, dismissive or defensive reaction from your design or development colleagues, your marketing department, your managers, or even from your full-service advertising agency as soon as you start talking about accessibility? Want to learn how to counter and motivate? Come to my talk, and you will go home with some great techniques and tactics to turn them around!</p>\n\n\n\n<p>This talk is aimed at anyone already working in digital accessibility, in a leading / inspiring role. It&#8217;s a peer to peer boost, so to speak.</p>\n\n\n\n<p>One of the worst things that can happen to people in creative professions is for them to feel castrated in their creativity, their tools, and their toys. Whether it’s in graphic design, content or code, it results in unproductive resentment.</p>\n\n\n\n<p>But the reality is that it’s really not the rules and guidelines for digital accessibility that cause the resentment. It’s the assumptions and misconceptions around it.</p>\n\n\n\n<p>In this session, I will share how I guide and inspire designers, developers, and content creators to want to rock accessibility.</p>\n\n\n\n<h2 class=\"wp-block-heading\">Take aways:</h2>\n\n\n\n<ol>\n<li>You will take home some smashing analogies that will help you to win over your colleagues.</li>\n\n\n\n<li>You will know how to calculate and present the hidden / unexpected and usually substantial financial consequences to stake holders who are financially driven.</li>\n\n\n\n<li>You will get a list of ways to talk to your peers all over the world about this topic.</li>\n</ol>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Do you get an aggressive, dismissive or defensive reaction from your design or development colleagues, your marketing department, your managers, or even from your full-service advertising agency as soon as you start talking about accessibility? Want to learn how to counter and motivate? Come to my talk, and you will go home with some great [&hellip;]</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709866800,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        5502
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "11:00 am"
+    },
+    "session_speakers": [
+      {
+        "id": "5502",
+        "slug": "anne-mieke-bovelett",
+        "name": "Anne-Mieke Bovelett",
+        "link": "https://asia.wordcamp.org/2024/speaker/anne-mieke-bovelett/"
+      }
+    ]
+  },
+  {
+    "id": 8026,
+    "link": "https://asia.wordcamp.org/2024/session/networking-time-day2/",
+    "title": {
+      "rendered": "Networking Time"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709944200,
+      "_wcpt_session_duration": 1800,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "8:30 am"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8025,
+    "link": "https://asia.wordcamp.org/2024/session/registration-open-day2/",
+    "title": {
+      "rendered": "Registration Open"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709942400,
+      "_wcpt_session_duration": 1800,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "8:00 am"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8023,
+    "link": "https://asia.wordcamp.org/2024/session/day-1-wrap-up/",
+    "title": {
+      "rendered": "Day 1 Wrap Up"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709891100,
+      "_wcpt_session_duration": 900,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "5:45 pm"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8021,
+    "link": "https://asia.wordcamp.org/2024/session/long-break-day1/",
+    "title": {
+      "rendered": "Long Break"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709870400,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "12:00 pm"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8015,
+    "link": "https://asia.wordcamp.org/2024/session/opening-remarks/",
+    "title": {
+      "rendered": "Opening Remarks"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709859600,
+      "_wcpt_session_duration": 900,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "9:00 am"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8014,
+    "link": "https://asia.wordcamp.org/2024/session/networking-time-day1/",
+    "title": {
+      "rendered": "Networking Time"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709857800,
+      "_wcpt_session_duration": 1800,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "8:30 am"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 8013,
+    "link": "https://asia.wordcamp.org/2024/session/registration-open-day1/",
+    "title": {
+      "rendered": "Registration Open"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709856000,
+      "_wcpt_session_duration": 1800,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 8, 2024",
+      "time": "8:00 am"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 5850,
+    "link": "https://asia.wordcamp.org/2024/session/an-in-person-q-a-with-matt-mullenweg/",
+    "title": {
+      "rendered": "An In-person Q&amp;A with WordPress Co-Founder Matt Mullenweg"
+    },
+    "content": {
+      "rendered": "\n<p>*This session will take place on Plenary hall.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>*This session will take place on Plenary hall.</p>\n",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709969400,
+      "_wcpt_session_duration": 2700,
+      "_wcpt_session_type": "session",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [
+        4761
+      ],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 9, 2024",
+      "time": "3:30 pm"
+    },
+    "session_speakers": [
+      {
+        "id": "4761",
+        "slug": "matt-mullenweg",
+        "name": "Matt Mullenweg",
+        "link": "https://asia.wordcamp.org/2024/speaker/matt-mullenweg/"
+      }
+    ]
+  },
+  {
+    "id": 4296,
+    "link": "https://asia.wordcamp.org/2024/session/lunch/",
+    "title": {
+      "rendered": "Long Break / Networking"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709782200,
+      "_wcpt_session_duration": 5400,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 7, 2024",
+      "time": "11:30 am"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 4295,
+    "link": "https://asia.wordcamp.org/2024/session/closing-remarks-and-wrap-up/",
+    "title": {
+      "rendered": "Closing Remarks / Photo / Wrap-Up"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709798400,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 7, 2024",
+      "time": "4:00 pm"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 4294,
+    "link": "https://asia.wordcamp.org/2024/session/contributing-to-wordpress-2/",
+    "title": {
+      "rendered": "Contributing to WordPress / Human Library"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709787600,
+      "_wcpt_session_duration": 10800,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 7, 2024",
+      "time": "1:00 pm"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 4292,
+    "link": "https://asia.wordcamp.org/2024/session/contributing-to-wordpress/",
+    "title": {
+      "rendered": "Contributing to WordPress / Orientation Workshop / Human Library"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709778600,
+      "_wcpt_session_duration": 3600,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 7, 2024",
+      "time": "10:30 am"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 4291,
+    "link": "https://asia.wordcamp.org/2024/session/opening/",
+    "title": {
+      "rendered": "Opening / Group Photo"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709775900,
+      "_wcpt_session_duration": 2700,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 7, 2024",
+      "time": "9:45 am"
+    },
+    "session_speakers": []
+  },
+  {
+    "id": 4289,
+    "link": "https://asia.wordcamp.org/2024/session/registration-2/",
+    "title": {
+      "rendered": "Registration"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "meta": {
+      "advanced_seo_description": "",
+      "jetpack_seo_html_title": "",
+      "jetpack_seo_noindex": false,
+      "jetpack_post_was_ever_published": false,
+      "_wcpt_session_time": 1709773200,
+      "_wcpt_session_duration": 2700,
+      "_wcpt_session_type": "custom",
+      "_wcpt_session_slides": "",
+      "_wcpt_session_video": "",
+      "_wcpt_speaker_id": [],
+      "footnotes": ""
+    },
+    "session_date_time": {
+      "date": "March 7, 2024",
+      "time": "9:00 am"
+    },
+    "session_speakers": []
+  }
+]

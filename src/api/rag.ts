@@ -89,7 +89,7 @@ const createGeneralChain = (bindings: Bindings) => {
   const retriever = new HydeRetriever({
     vectorStore,
     llm,
-    k: 20,
+    k: 5,
   });
   const generateAnswerChain = RunnableSequence.from([
     {
@@ -107,7 +107,10 @@ const createGeneralChain = (bindings: Bindings) => {
           })
       },
       answer: RunnableSequence.from([{
-              context: input => input.context.map((sesison: Document) => sesison.pageContent).join('\n'),
+              context: input => {
+                const data = input.context.map((sesison: Document) => sesison.pageContent).join('\n')
+                return data
+              },
               question: input => input.question,
           },
           ChatPromptTemplate.fromMessages([
@@ -138,7 +141,7 @@ const createSessionChain = (bindings: Bindings) => {
     const retriever = new HydeRetriever({
       vectorStore,
       llm,
-      k: 10,
+      k: 5,
     });
     const generateAnswerChain = RunnableSequence.from([
       {
@@ -156,7 +159,10 @@ const createSessionChain = (bindings: Bindings) => {
           })
         },
         answer: RunnableSequence.from([{
-                context: input => input.context.map((sesison: Document) => sesison.pageContent).join('\n'),
+                context: input => {
+                  const data = input.context.map((sesison: Document) => sesison.pageContent).join('\n')
+                  return data
+                },
                 question: input => input.question,
             },
             ChatPromptTemplate.fromMessages([
