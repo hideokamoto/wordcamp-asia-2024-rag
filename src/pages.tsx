@@ -108,6 +108,10 @@ pageApp.get('/', (c) => {
         <p>You can ask about this AI about the session in WordCamp Asia 2024</p>
         <p>Since the search accuracy is only <strong>60-70%</strong>, which is <strong>not very high</strong>, please use the answers provided as a reference only.。</p>
       </section>
+      <section>
+        <h2>Privacy notification</h2>
+        <p>The questions and answers input into this app are used for analysis to improve AI/LLM/RAG applications. <b>They are not used for marketing or sales materials</b>, but please refrain from entering personally identifiable information.</p>
+      </section>
     </>
   )
 })

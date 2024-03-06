@@ -1,3 +1,4 @@
+import { AnalyticsEngineDataset } from '@cloudflare/workers-types';
 import { Hono } from 'hono'
 export type Bindings = {
     VECTORIZE_SESSIONS_INDEX: VectorizeIndex;
@@ -6,6 +7,7 @@ export type Bindings = {
     CLOUDFLARE_API_TOKEN: string;
     OPENAI_API_KEY: string;
     AI: Fetcher;
+    ANALYTICS_ENGINE: AnalyticsEngineDataset
 }
 
 export const createHonoApp = () => {

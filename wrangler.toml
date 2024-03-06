@@ -14,3 +14,8 @@ index_name = "wcasia-rag-sessions"
 binding = "VECTORIZE_GENERAL_INDEX"
 index_name = "wcasia-rag-general"
 
+[[analytics_engine_datasets]]
+binding = "ANALYTICS_ENGINE"
+dataset = "wcasia2024"
+
+

@@ -262,11 +262,26 @@ ragApp.post('/ask', async c => {
       query: string
   }>()
   const chain = createIndexChain(c.env)
+  /*
+  */
   const answerStream = await chain.stream({question})
   return streamText(c, async (stream) => {
+    let answer: string = ''
       for await (const s of answerStream) {
-          await stream.write(JSON.stringify(s))
-          await stream.sleep(10)
+        const answerChunk = (s as any).answer
+        if (answerChunk) {
+          answer = `${answer}${answerChunk}`
+        }
+        await stream.write(JSON.stringify(s))
+        //await stream.sleep(10)
       }
+      try {
+        c.env.ANALYTICS_ENGINE.writeDataPoint({
+          blobs: [question, answer],
+        })
+      } catch (e) {
+        console.log(e)
+      }
+
   })
 })
