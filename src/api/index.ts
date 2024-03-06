@@ -1,4 +1,5 @@
 import { CloudflareWorkersAIEmbeddings, CloudflareVectorizeStore } from "@langchain/cloudflare";
+import { ChatOpenAI, OpenAIEmbeddings } from "@langchain/openai";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import { Bindings, createHonoApp } from "../honoApp";
 import { Document } from "langchain/document";
@@ -12,10 +13,9 @@ import { loadPages } from "../contents/pages";
 export const indexApp = createHonoApp()
 
 const initModels = (bindings: Bindings, indexName: keyof Pick<Bindings, 'VECTORIZE_GENERAL_INDEX' | 'VECTORIZE_SESSIONS_INDEX'> = 'VECTORIZE_GENERAL_INDEX') => {
-    const embeddings = new CloudflareWorkersAIEmbeddings({
-      binding: bindings.AI,
-      modelName: "@cf/baai/bge-large-en-v1.5",
-    });
+    const embeddings = new OpenAIEmbeddings({
+        openAIApiKey: bindings.OPENAI_API_KEY,
+      });
     const vectorStore = new CloudflareVectorizeStore(embeddings, {
       index: bindings[indexName]
     });

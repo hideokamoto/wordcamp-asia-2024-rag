@@ -4,6 +4,7 @@ export type Bindings = {
     VECTORIZE_GENERAL_INDEX: VectorizeIndex
     CLOUDFLARE_ACCOUNT_ID: string;
     CLOUDFLARE_API_TOKEN: string;
+    OPENAI_API_KEY: string;
     AI: Fetcher;
 }
 

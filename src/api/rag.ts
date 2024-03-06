@@ -7,6 +7,8 @@ import { HydeRetriever } from 'langchain/retrievers/hyde';
 import { Bindings, createHonoApp } from "../honoApp";
 import { Document } from "langchain/document";
 import { stream, streamText } from 'hono/streaming'
+import { ChatOpenAI, OpenAIEmbeddings } from "@langchain/openai";
+import { OpenAI } from "@langchain/openai";
 /**
  * RAG api
  */
@@ -14,23 +16,19 @@ export const ragApp = createHonoApp()
 
 
 const initModels = (bindings: Bindings, indexName: keyof Pick<Bindings, 'VECTORIZE_GENERAL_INDEX' | 'VECTORIZE_SESSIONS_INDEX'> = 'VECTORIZE_GENERAL_INDEX') => {
-    const embeddings = new CloudflareWorkersAIEmbeddings({
-      binding: bindings.AI,
-      modelName: "@cf/baai/bge-large-en-v1.5",
+    const embeddings = new OpenAIEmbeddings({
+      openAIApiKey: bindings.OPENAI_API_KEY,
     });
     const vectorStore = new CloudflareVectorizeStore(embeddings, {
       index: bindings[indexName]
     });
-    const llmCloudflare = new CloudflareWorkersAI({
-      model: "@cf/meta/llama-2-7b-chat-int8",
-      cloudflareAccountId: bindings.CLOUDFLARE_ACCOUNT_ID,
-      cloudflareApiToken: bindings.CLOUDFLARE_API_TOKEN,
+    const llmCloudflare = new OpenAI({
+      openAIApiKey: bindings.OPENAI_API_KEY,
+      modelName: 'gpt-4'
     });
-    const chatCloudflare = new ChatCloudflareWorkersAI({
-      model: "@hf/thebloke/neural-chat-7b-v3-1-awq",
-      cloudflareAccountId: bindings.CLOUDFLARE_ACCOUNT_ID,
-      cloudflareApiToken: bindings.CLOUDFLARE_API_TOKEN,
-      cache: false,
+    const chatCloudflare = new ChatOpenAI({
+      openAIApiKey: bindings.OPENAI_API_KEY,
+      modelName: 'gpt-4'
     });
 
     return {
